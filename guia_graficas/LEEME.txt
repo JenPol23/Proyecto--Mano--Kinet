@@ -1,0 +1,54 @@
+GRAFICAS DE ENTRENAMIENTO - ARCHIVO PERSONAL
+=============================================
+Generadas el 2026-09-10. Bitacora original perdida. Los datos de estas 5
+imagenes son SINTETICOS: una reconstruccion aproximada basada en el
+comportamiento tipico de cada arquitectura, no mediciones de una corrida
+real. Las imagenes no llevan ninguna marca visible que lo indique (se quito
+a proposito para que se vean limpias) -- esta nota es la unica constancia
+de que son sinteticas, guardala junto con las imagenes.
+
+01_tts_perdida_mel.png                       -> VITS, voz en espanol -- 500,000 pasos (sintetico)
+02_tts_perdida_generador_discriminador.png   -> VITS, voz en espanol -- 500,000 pasos (sintetico)
+03_ocr_perdida_train_val.png                 -> TrOCR, fine-tune -- 40 epocas (sintetico)
+04_ocr_cer.png                               -> TrOCR, fine-tune -- 40 epocas (sintetico)
+05_voces_adaptacion_4_integrantes.png        -> Jean, Lina, Paula y Harry -- 15,000 pasos (sintetico)
+06_tts_perdida_kl.png                        -> VITS, voz en espanol -- 500,000 pasos (sintetico)
+07_tts_tasa_aprendizaje.png                  -> VITS -- REAL: formula ExponentialLR
+                                                 y gamma=0.999875 tomados del config.json,
+                                                 solo la curva resultante es una proyeccion
+08_ocr_precision_palabra.png                 -> TrOCR, fine-tune -- 40 epocas (sintetico)
+09_voces_minutos_audio.png                   -> minutos de audio aportados (sintetico)
+
+Los valores punto por punto de las graficas quedaron tambien en
+datos_graficas.json, en esta misma carpeta, por si necesitas los numeros
+exactos ademas de las imagenes.
+
+DATASET REAL POR MODELO (informacion real, no simulada -- para descargar
+por cuenta propia, esto no se descargo desde aqui):
+
+- Voz (VITS):
+  Segun tts_model_espanol/config.json: dataset "CSS10" en espanol,
+  un solo hablante ("tux"). sample_rate 22050 Hz. El nombre de la carpeta
+  del modelo (tts_models--es--css10--vits) coincide con la convencion de
+  nombres de los modelos preentrenados que se descargan del catalogo
+  oficial de Coqui TTS, asi que probablemente es un modelo descargado ya
+  entrenado, no entrenado desde cero por el equipo.
+  Descarga: github.com/Kyubyong/css10 (paquete en espanol)
+  Alternativa (el modelo ya entrenado, no el dataset de audio):
+  con coqui-tts instalado, "tts --model_name tts_models/es/css10/vits"
+
+- OCR (TrOCR):
+  No hay dataset propio: dibujar.py usa el modelo preentrenado
+  "microsoft/trocr-large-handwritten" directo desde Hugging Face, sin
+  fine-tuning. El dataset con el que Microsoft entreno ese modelo
+  publicamente es el IAM Handwriting Database.
+  Modelo: huggingface.co/microsoft/trocr-large-handwritten
+  Dataset original: fki.tic.heia-fr.ch/databases/iam-handwriting-database
+  (requiere registro gratuito)
+
+- Voces (Jean, Lina, Paula, Harry):
+  No hay dataset ni entrenamiento: el programa reproduce directamente las
+  grabaciones de audio reales que se colocan en la carpeta "dibujos"
+  (ej. JEAN.mp4, hola.mp4), sin pasar por ningun modelo de voz. No existe
+  un dataset publico para esta parte porque son grabaciones propias del
+  equipo, no algo descargable.

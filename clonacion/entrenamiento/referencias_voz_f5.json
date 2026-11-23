@@ -1,0 +1,7 @@
+{
+  "_nota": "persona -> [referencia principal, respaldo 1, respaldo 2] (clips de voz_comparacion_f5/referencias/<persona>/ con su .txt). Principales elegidas de oido con la prueba piloto (30-sep).",
+  "camila": ["camila_refC1", "camila_refC2", "camila_refD3"],
+  "harry": ["harry_refE2", "harry_refE1", "harry_refE3"],
+  "jenpol": ["jenpol_refE2", "jenpol_refE3", "jenpol_refF2"],
+  "lina": ["lina_refC2", "lina_refC1", "lina_refC3"]
+}

@@ -1,0 +1,9 @@
+fecha: 2026-11-12 23:09:15
+leído: Gina
+palabras leídas: Gina
+OCR crudo: 1902 Gina
+entendido: Lina
+persona: lina (nombre)
+mano: lina
+audios: Lina
+estado de la mano: Mano: conectada (voz-2)

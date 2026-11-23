@@ -1,0 +1,4 @@
+﻿fecha_hora,host,como,nota,voz,hora,kb,seg_audio,ms_conexion,ms_ping,ms_envio_pc,ms_recepcion_placa,kb_s,ms_hasta_voz_ok,extra_s,resultado
+2026-11-12 12:58:30,192.168.43.228,ip,,lina,0745,97.0,3.11,52,17,,,,,,voz_error:tamano
+2026-11-12 12:58:30,192.168.43.228,ip,,lina,1535,89.7,2.87,52,17,,,,,,voz_error:tamano
+2026-11-12 12:58:30,192.168.43.228,ip,,lina,2359,93.4,2.99,52,17,,,,,,voz_error:tamano

@@ -1,0 +1,41 @@
+﻿id_prueba,fecha_hora,texto,palabras,archivos,seg_audio,seg_hasta_ok,resultado
+2026-10-28 18:25:06,2026-10-28 18:25:06.497,Jean Paul,Jean Paul,jean paul,3.322,63.095,error: La mano no respondió a tiempo
+2026-10-28 20:40:52,2026-10-28 20:40:52.906,Tatiana Maldonado,Tatiana Maldonado,tatiana maldonado,3.789,5.076,ok
+2026-10-28 20:57:32,2026-10-28 20:57:32.481,Tatiana,Tatiana,tatiana,1.641,2.749,ok
+2026-10-28 20:58:56,2026-10-28 20:58:56.685,Tatiana,Tatiana,tatiana,1.641,2.757,ok
+2026-10-28 21:55:06,2026-10-28 21:55:06.615,Jean Paul,Jean Paul,jean paul,3.322,4.457,ok
+2026-10-28 21:56:05,2026-10-28 21:56:05.555,Jean Paul,Jean Paul,jean paul,3.322,4.480,ok
+2026-10-28 23:40:29,2026-10-28 23:40:29.217,Jean,Jean,jean,1.515,2.628,ok
+2026-10-28 23:50:50,2026-10-28 23:50:50.349,Lina Tatiana,Lina Tatiana,lina tatiana,3.618,4.650,ok
+2026-10-29 00:31:10,2026-10-29 00:31:10.555,Lina Tatiana,Lina Tatiana,lina tatiana,3.618,4.889,ok
+2026-10-29 00:33:55,2026-10-29 00:33:55.013,Jean Paul,Jean Paul,jean paul,3.322,4.563,ok
+2026-10-29 00:43:04,2026-10-29 00:43:04.607,Jean,Jean,jean,1.515,2.635,ok
+2026-11-04 20:44:07,2026-11-04 20:44:07.006,Jean Miranda,Jean Miranda,jean_miranda,1.984,2.999,ok
+2026-11-04 21:15:15,2026-11-04 21:15:15.047,Camila Enriquez,Camila Enríquez,camila enriquez,6.287,7.353,ok
+2026-11-04 21:27:56,2026-11-04 21:27:56.095,Camila,Camila,camila,3.200,4.318,ok
+2026-11-12 21:47:11,2026-11-12 21:47:11.046,Lina Tatiana,Lina Tatiana,lina tatiana,3.618,4.735,ok
+2026-11-12 23:09:35,2026-11-12 23:09:35.694,Gina,Lina,lina,1.727,2.800,ok
+2026-11-12 23:17:38,2026-11-12 23:17:38.873,Jean Paul,Jean Paul,jean paul,3.322,4.472,ok
+2026-11-13 10:03:21,2026-11-13 10:03:21.456,Lina,Lina,lina,1.727,2.866,ok
+2026-11-13 10:14:39,2026-11-13 10:14:39.344,Lina Tatiana,Lina Tatiana,lina tatiana,3.618,4.665,ok
+2026-11-13 10:28:33,2026-11-13 10:28:33.395,Lina,Lina,lina,1.727,2.757,ok
+2026-11-13 10:31:48,2026-11-13 10:31:48.093,Lina Tatiana,Lina Tatiana,lina tatiana,3.618,4.677,ok
+2026-11-13 10:42:36,2026-11-13 10:42:36.865,Lina Tatiana,Lina Tatiana,lina tatiana,3.618,4.737,ok
+2026-11-13 10:47:59,2026-11-13 10:47:59.242,Harry,Harry,harry,2.299,3.350,ok
+2026-11-13 10:49:29,2026-11-13 10:49:29.001,Harry,Harry,harry,2.299,3.419,ok
+2026-11-13 10:50:17,2026-11-13 10:50:17.960,Jean,Jean,jean,1.515,2.560,ok
+2026-11-13 10:51:42,2026-11-13 10:51:42.500,Paula,Paula,,,,error: Falta audio: Paula
+2026-11-13 10:53:39,2026-11-13 10:53:39.800,Camila,Camila,camila,3.200,4.240,ok
+2026-11-18 14:11:33,2026-11-18 14:11:33.574,Lina Maldonado,Lina Maldonado,lina_maldonado,2.580,2.648,ok
+2026-11-18 14:18:42,2026-11-18 14:18:42.787,Lina Tatiana Maldonado,Lina Tatiana Maldonado,lina_tatiana_maldonado,2.921,4.127,ok
+2026-11-18 14:21:46,2026-11-18 14:21:46.806,Paul Miranda,Paul Miranda,paul miranda,3.301,4.412,ok
+2026-11-18 14:24:04,2026-11-18 14:24:04.743,Harry Raigozo,Harry Raigozo,harry_raigozo,2.299,3.407,ok
+2026-11-20 10:18:13,2026-11-20 10:18:13.755,Jean,Jean,jean,1.515,2.629,ok
+2026-11-20 10:24:58,2026-11-20 10:24:58.821,Jean Paul,Jean Paul,jean paul,3.322,4.428,ok
+2026-11-20 10:27:45,2026-11-20 10:27:45.681,Lina,Lina,lina,1.727,2.805,ok
+2026-11-20 10:31:28,2026-11-20 10:31:28.098,Harry Rangozo,Harry Raigozo,harry_raigozo,2.299,3.405,ok
+2026-11-20 10:37:31,2026-11-20 10:37:31.936,Camila,Camila,camila,3.200,4.302,ok
+2026-11-20 10:49:01,2026-11-20 10:49:01.149,Ina,Lina,lina,1.727,2.820,ok
+2026-11-20 10:54:47,2026-11-20 10:54:47.522,Harry,Harry,harry,2.299,3.465,ok
+2026-11-20 10:56:15,2026-11-20 10:56:15.484,Jean,Jean,jean,1.515,2.639,ok
+2026-11-20 10:58:28,2026-11-20 10:58:28.501,Camila,Camila,camila,3.200,4.320,ok

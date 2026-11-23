@@ -1,0 +1,9 @@
+fecha: 2026-10-28 23:30:22
+leído: Jean
+palabras leídas: Jean
+OCR crudo: Jean JEAN
+entendido: Jean
+persona: jeanpaul (nombre)
+mano: [J] + ean
+audios: JEAN
+estado de la mano: Mano: sin conexión (r = reintentar)

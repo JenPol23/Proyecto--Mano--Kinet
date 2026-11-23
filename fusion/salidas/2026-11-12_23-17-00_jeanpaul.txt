@@ -1,0 +1,9 @@
+fecha: 2026-11-12 23:17:00
+leído: Jean Paul
+palabras leídas: Jean | Paul
+OCR crudo: Jean | 1934 Paul
+entendido: Jean Paul
+persona: jeanpaul (nombre)
+mano: [J] + ean  |  paul
+audios: JEAN Paul
+estado de la mano: Mano: conectada (voz-2)

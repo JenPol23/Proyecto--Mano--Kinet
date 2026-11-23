@@ -1,0 +1,63 @@
+# requirements_clonacion.txt - entorno para clonar voces con F5-TTS (scripts de clonacion/ y
+# fusion/herramientas/generar_fechas.py). Versiones EXACTAS del entorno con el que se generaron las voces:
+#   C:\Users\miran\proyectoDoby\venv_f5  (Python 3.11.9, Windows 11, GPU NVIDIA RTX 5050 Laptop 8 GB, CUDA 12.8)
+#
+# Como estaba armado el original: "py -m venv venv_f5 --system-site-packages". torch, faster-whisper y el resto
+# de la seccion 1 venian del Python del sistema; la seccion 2 se instalo dentro de venv_f5 (pip install f5-tts).
+# Se separo porque f5-tts 1.1.22 necesita transformers 5.x y huggingface_hub >= 1.16, incompatibles con el
+# transformers 4.57.6 que usa TrOCR en fusion/ (por eso NO se instala en el Python del programa principal).
+#
+# Para otro PC (recomendado): un venv NUEVO y aparte (sin --system-site-packages) e instalar este archivo:
+#   py -3.11 -m venv venv_f5
+#   venv_f5\Scripts\python.exe -m pip install -r clonacion\requirements_clonacion.txt
+# Que esta instalacion limpia quede identica a la original: POR VERIFICAR (la original heredaba del sistema).
+#
+# Modelos (NO van en el repo; se descargan aparte):
+#   - F5-Spanish: https://huggingface.co/jpgallegoar/F5-Spanish  (model_1200000.safetensors, 1286 MB, y vocab.txt;
+#     commit usado 4765c14ffd01075479c2fde8615831acc0adca9a) -> <raiz>/modelos/f5-spanish/
+#   - Vocoder vocos-mel-24khz (config.yaml + pytorch_model.bin, 52 MB) -> <raiz>/modelos/f5-spanish/vocos-mel-24khz/
+#     Repositorio de origen: probablemente https://huggingface.co/charactr/vocos-mel-24khz (el que usa f5-tts por
+#     defecto; commit 0feb3fdd929bcd6649e0e7c5a688cf7dd012ef21): POR VERIFICAR.
+#   - Whisper "medium" de faster-whisper (Systran/faster-whisper-medium): se descarga solo la primera vez a la cache
+#     de Hugging Face. Los scripts ponen HF_HUB_OFFLINE=1: hay que descargarlo ANTES con internet (POR VERIFICAR
+#     el comando: por ejemplo, ejecutar una vez pc/stt.py sin HF_HUB_OFFLINE).
+# Ver GUIA_VOZ_CLONADA_Y_HORA.md.
+
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+# ---- 1. Base (en el original: Python del sistema) ----
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+torchcodec==0.16.0
+numpy==2.4.6
+scipy==1.17.1
+soundfile==0.14.0
+librosa==0.11.0
+av==18.1.0
+safetensors==0.8.0
+accelerate==1.15.0
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+
+# ---- 2. F5-TTS (en el original: instalado dentro de venv_f5) ----
+f5-tts==1.1.22
+transformers==5.18.0
+huggingface_hub==1.33.0
+tokenizers==0.23.2
+vocos==0.1.0
+x-transformers==2.31.2
+ema-pytorch==0.8.3
+torchdiffeq==0.2.5
+omegaconf==2.3.1
+hydra-core==1.3.7
+cached_path==1.8.10
+pydub==0.25.1
+pypinyin==0.55.0
+rjieba==0.2.1
+Unidecode==1.4.0
+gradio==6.29.0
+datasets==5.0.1
+
+# ---- 3. Opcional: solo para la voz "normal" de Doby (gTTS, con internet; no se usa para clonar) ----
+# gTTS==2.2.4
+# pygame==2.6.1

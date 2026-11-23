@@ -1,0 +1,9 @@
+fecha: 2026-11-13 10:53:08
+leído: Camila
+palabras leídas: Camila
+OCR crudo: CAMILA
+entendido: Camila
+persona: paula (nombre)
+mano: camila
+audios: Camila
+estado de la mano: Mano: conectada (voz-2)

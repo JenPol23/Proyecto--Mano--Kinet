@@ -1,0 +1,9 @@
+fecha: 2026-11-13 10:30:54
+leído: Lina Tatiana
+palabras leídas: Lina | Tatiana
+OCR crudo: 1902 Lina | 1907 Tatiana
+entendido: Lina Tatiana
+persona: lina (nombre)
+mano: lina  |  tatiana
+audios: Lina Tatiana
+estado de la mano: Mano: conectada (voz-2)

@@ -1,0 +1,9 @@
+fecha: 2026-11-13 10:47:38
+leído: Harry
+palabras leídas: Harry | 
+OCR crudo: Harry Harry | 0'
+entendido: Harry
+persona: harry (nombre)
+mano: [H] + arry
+audios: Harry
+estado de la mano: Mano: conectada (voz-2)

@@ -1,0 +1,9 @@
+fecha: 2026-11-13 10:28:13
+leído: Lina
+palabras leídas: Lina
+OCR crudo: 1902 Lina
+entendido: Lina
+persona: lina (nombre)
+mano: lina
+audios: Lina
+estado de la mano: Mano: conectada (voz-2)

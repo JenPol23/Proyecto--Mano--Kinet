@@ -1,0 +1,9 @@
+fecha: 2026-11-13 10:51:17
+leído: Paula
+palabras leídas: Paula
+OCR crudo: 1925 Paula
+entendido: Paula
+persona: paula (nombre)
+mano: paula
+audios: Paula
+estado de la mano: Mano: conectada (voz-2)

@@ -1,0 +1,20 @@
+{
+  "_nota": "Fecha y hora con la voz CLONADA de un integrante (unica excepcion a 'sin voces clonadas'; los nombres siempre con la grabacion original de voces/). Horas: las 1440 frases enteras ya aprobadas de Doby, leidas tal cual (dicen 'madrugada' y 'del mediodia'). Fechas: frases enteras generadas una vez con fusion/herramientas/generar_fechas.py (venv_f5 de Doby, sin internet).",
+  "_rutas": "{doby} = carpeta del proyecto Doby (solo se lee). {voz_doby} = nombre de la voz en Doby. {persona} = clave de este proyecto. 'fechas' es relativa a la raiz de este proyecto.",
+  "doby": "C:/Users/miran/proyectoDoby",
+  "horas": "{doby}/voz_cache_f5/{voz_doby}/hora",
+  "fechas": "voces_clonadas/fecha/{persona}",
+  "rango_fechas": {"desde": "2026-11-12", "hasta": "2026-12-31"},
+  "orden_menu": ["jeanpaul", "harry", "lina", "paula"],
+  "personas": {
+    "jeanpaul": {"mostrar": "Jean Paul", "voz_doby": "jenpol"},
+    "harry":    {"mostrar": "Harry",     "voz_doby": "harry"},
+    "lina":     {"mostrar": "Lina",      "voz_doby": "lina"},
+    "paula":    {"mostrar": "Paula",     "voz_doby": "camila"}
+  },
+  "piloto": {
+    "_nota": "7 fechas con una voz, dentro de rango_fechas (sirven para el total): los 7 dias de la semana y numeros dificiles (uno, dieciseis, veintiuno, veintidos, veintisiete, treinta, treinta y uno).",
+    "persona": "jeanpaul",
+    "fechas": ["2026-11-16", "2026-12-01", "2026-12-30", "2026-12-31", "2026-11-27", "2026-11-21", "2026-11-22"]
+  }
+}

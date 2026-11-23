@@ -1,0 +1,107 @@
+# =====================================================================================================
+# .gitignore - Kinect -> mano LSC -> voz
+# REGLA: NINGUNA voz ni audio va al repositorio. Solo el PROCESO para que cada grupo genere los suyos.
+# Las carpetas de audio existen en el repo solo con su LEEME.md (que explica que va ahi y como se genera).
+# =====================================================================================================
+
+# ---- 1. Audio y video, en CUALQUIER carpeta ----
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.ogg
+*.mpeg
+*.mpga
+*.flac
+*.aac
+*.opus
+*.wma
+*.webm
+*.amr
+*.3gp
+*.aif
+*.aiff
+
+# ---- 2. Carpetas de audio: todo lo de adentro se ignora, MENOS su LEEME.md ----
+# (asi tambien quedan fuera los .csv de generacion y cualquier archivo con otra extension)
+voces/*
+!voces/LEEME.md
+
+fusion/cache_audio/*
+!fusion/cache_audio/LEEME.md
+
+fusion/audios_placa/*
+!fusion/audios_placa/LEEME.md
+
+# voces_clonadas/fecha/<persona>/ (fechas clonadas + generacion.csv): solo los LEEME.md
+voces_clonadas/**
+!voces_clonadas/**/
+!voces_clonadas/**/LEEME.md
+
+# Clips de referencia para clonar y referencias.csv (tiene datos personales)
+clonacion/referencias/*
+!clonacion/referencias/LEEME.md
+
+# Clonacion: referencias que usa F5 (<persona>/<clip>.wav + .txt) y las 1440 horas por voz que genera
+clonacion/voz_comparacion_f5/**
+!clonacion/voz_comparacion_f5/**/
+!clonacion/voz_comparacion_f5/**/LEEME.md
+clonacion/voz_cache_f5/**
+!clonacion/voz_cache_f5/**/
+!clonacion/voz_cache_f5/**/LEEME.md
+
+# Modelo F5-Spanish y vocoder (1,3 GB): se descargan aparte, solo va su LEEME.md
+clonacion/modelos/*
+!clonacion/modelos/LEEME.md
+
+# ---- 3. Credenciales reales (solo van las plantillas *.ejemplo.py) ----
+secretos.py
+config_ble.py
+config_wifi.py
+.env
+.env.*
+*.env
+
+# ---- 4. Notas internas y registros de pruebas (rutas personales, IP, imagenes de los dibujos) ----
+CLAUDE.md
+CLAUDE_anterior.md
+fusion/registros/
+fusion/salidas/
+
+# ---- 5. Copias de otros proyectos y archivos sin uso ----
+proyectoDoby/
+_para_borrar/
+
+# ---- 6. Entornos virtuales, modelos y salidas de la clonacion ----
+venv/
+.venv/
+venv_f5/
+env/
+clonacion/voz_cache/
+clonacion/datos_voz/
+clonacion/logs/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# ---- 7. Python ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ---- 8. Editor, sistema y temporales ----
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
+ehthumbs.db
+.DS_Store
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*

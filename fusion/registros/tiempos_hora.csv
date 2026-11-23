@@ -1,0 +1,59 @@
+﻿fecha_hora,persona,hora_dicha,como,ms_buscar,seg_fecha,ms_fecha,seg_hora,ms_hora,ms_total,resultado,mensaje
+2026-11-12 15:59:28,lina,2026-11-12 15:59,,,,,,,8849,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-12 15:59:43,lina,2026-11-12 15:59,,,,,,,1589,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-12 16:01:06,lina,2026-11-12 16:01,,,,,,,1593,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-12 16:02:31,lina,2026-11-12 16:02,IP_FIJA,7859,2.21,2987,2.26,3180,14308,ok,Lina: Hoy es jueves doce de noviembre. Son las cuatro y dos de la tarde.
+2026-11-12 16:02:48,lina,2026-11-12 16:02,mano.local,766,2.21,3154,2.26,3248,7224,ok,Lina: Hoy es jueves doce de noviembre. Son las cuatro y dos de la tarde.
+2026-11-12 16:03:05,lina,2026-11-12 16:03,mano.local,739,2.21,3074,2.33,3278,7234,ok,Lina: Hoy es jueves doce de noviembre. Son las cuatro y tres de la tarde.
+2026-11-12 23:08:14,jeanpaul,2026-11-12 23:08,,,,,,,8852,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-12 23:12:25,jeanpaul,2026-11-12 23:12,mano.local,643,1.83,2682,1.83,2753,6285,ok,Jean Paul: Hoy es jueves doce de noviembre. Son las once y doce de la noche.
+2026-11-12 23:13:43,jeanpaul,2026-11-12 23:13,mano.local,455,1.83,2652,1.87,2845,6187,ok,Jean Paul: Hoy es jueves doce de noviembre. Son las once y trece de la noche.
+2026-11-12 23:14:35,harry,2026-11-12 23:14,mano.local,583,2.1,2977,2.27,3252,6957,ok,Harry: Hoy es jueves doce de noviembre. Son las once y catorce de la noche.
+2026-11-12 23:14:51,lina,2026-11-12 23:14,mano.local,555,2.21,3170,2.39,3361,7435,ok,Lina: Hoy es jueves doce de noviembre. Son las once y catorce de la noche.
+2026-11-12 23:15:04,paula,2026-11-12 23:15,mano.local,489,2.51,3189,2.65,3646,7662,ok,Paula: Hoy es jueves doce de noviembre. Son las once y quince de la noche.
+2026-11-13 09:59:30,lina,2026-11-13 09:59,,,,,,,4428,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-13 10:00:19,lina,2026-11-13 10:00,mano.local,591,2.33,3113,2.44,3392,7374,ok,Lina: Hoy es viernes trece de noviembre. Son las diez en punto de la mañana.
+2026-11-13 10:00:58,lina,2026-11-13 10:00,mano.local,568,2.33,3114,2.44,3391,7343,ok,Lina: Hoy es viernes trece de noviembre. Son las diez en punto de la mañana.
+2026-11-13 10:05:47,lina,2026-11-13 10:05,,,,,,,4320,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-13 10:06:07,lina,2026-11-13 10:06,,,,,,,1947,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-13 10:06:40,lina,2026-11-13 10:06,mano.local,688,2.33,3175,2.33,3279,7351,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y seis de la mañana.
+2026-11-13 10:06:53,lina,2026-11-13 10:06,mano.local,579,2.33,3139,2.33,3277,7266,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y seis de la mañana.
+2026-11-13 10:07:06,lina,2026-11-13 10:07,mano.local,464,2.33,3200,2.39,3299,7160,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y siete de la mañana.
+2026-11-13 10:07:35,lina,2026-11-13 10:07,mano.local,390,2.33,3171,2.39,3352,7131,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y siete de la mañana.
+2026-11-13 10:07:48,lina,2026-11-13 10:07,mano.local,524,2.33,3203,2.39,3774,7696,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y siete de la mañana.
+2026-11-13 10:08:06,lina,2026-11-13 10:08,mano.local,617,2.33,3201,2.57,3473,7489,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y ocho de la mañana.
+2026-11-13 10:08:48,lina,2026-11-13 10:08,mano.local,703,2.33,3213,2.57,3494,7567,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y ocho de la mañana.
+2026-11-13 10:09:25,lina,2026-11-13 10:09,mano.local,1010,2.33,3107,2.39,3362,7786,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y nueve de la mañana.
+2026-11-13 10:09:44,lina,2026-11-13 10:09,mano.local,387,2.33,3181,2.39,3361,7143,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y nueve de la mañana.
+2026-11-13 10:10:50,lina,2026-11-13 10:10,mano.local,475,2.33,3209,2.33,3271,7251,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y diez de la mañana.
+2026-11-13 10:11:05,lina,2026-11-13 10:11,mano.local,780,2.33,3178,2.33,3279,7484,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y once de la mañana.
+2026-11-13 10:11:16,lina,2026-11-13 10:11,mano.local,731,2.33,3212,2.33,3279,7414,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y once de la mañana.
+2026-11-13 10:11:32,jeanpaul,2026-11-13 10:11,mano.local,715,1.92,2781,1.92,2803,6730,ok,Jean Paul: Hoy es viernes trece de noviembre. Son las diez y once de la mañana.
+2026-11-13 10:11:42,lina,2026-11-13 10:11,mano.local,533,2.33,3179,2.33,3287,7212,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y once de la mañana.
+2026-11-13 10:11:56,harry,2026-11-13 10:11,mano.local,661,2.21,3074,2.21,3159,7361,ok,Harry: Hoy es viernes trece de noviembre. Son las diez y once de la mañana.
+2026-11-13 10:14:56,lina,2026-11-13 10:14,mano.local,3515,2.33,3406,2.51,3366,10600,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y catorce de la mañana.
+2026-11-13 10:28:43,lina,2026-11-13 10:28,IP_FIJA,3629,2.33,3203,2.69,3587,10605,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y veintiocho de la mañana.
+2026-11-13 10:32:03,lina,2026-11-13 10:32,IP_FIJA,3302,2.33,3197,2.87,3789,10476,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y treinta y dos de la mañana.
+2026-11-13 10:43:50,lina,2026-11-13 10:43,IP_FIJA,4392,2.33,3098,2.99,3903,11775,ok,Lina: Hoy es viernes trece de noviembre. Son las diez y cuarenta y tres de la mañana.
+2026-11-13 10:54:00,paula,2026-11-13 10:54,,,,,,,4350,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-13 10:54:25,paula,2026-11-13 10:54,mano.local,580,2.65,3405,3.62,4509,8859,ok,Paula: Hoy es viernes trece de noviembre. Son las diez y cincuenta y cuatro de la mañana.
+2026-11-18 13:54:27,jeanpaul,2026-11-18 13:54,mano.local,8011,2.25,2956,2.35,3277,14986,ok,Jean Paul: Hoy es miércoles dieciocho de noviembre. Es la una y cincuenta y cuatro de la tarde.
+2026-11-18 13:54:48,harry,2026-11-18 13:54,mano.local,582,2.61,3583,2.72,3687,8301,ok,Harry: Hoy es miércoles dieciocho de noviembre. Es la una y cincuenta y cuatro de la tarde.
+2026-11-18 13:55:01,lina,2026-11-18 13:55,mano.local,496,2.74,3687,2.81,3887,8614,ok,Lina: Hoy es miércoles dieciocho de noviembre. Es la una y cincuenta y cinco de la tarde.
+2026-11-18 13:55:14,paula,2026-11-18 13:55,mano.local,542,3.13,3986,3.2,4199,9260,ok,Paula: Hoy es miércoles dieciocho de noviembre. Es la una y cincuenta y cinco de la tarde.
+2026-11-20 10:25:10,jeanpaul,2026-11-20 10:25,mano.local,4275,1.96,3411,2.25,3272,11572,ok,Jean Paul: Hoy es viernes veinte de noviembre. Son las diez y veinticinco de la mañana.
+2026-11-20 10:27:58,lina,2026-11-20 10:27,mano.local,3534,2.39,3188,2.74,3712,10872,ok,Lina: Hoy es viernes veinte de noviembre. Son las diez y veintisiete de la mañana.
+2026-11-20 10:31:42,harry,2026-11-20 10:31,mano.local,3578,2.27,3136,2.72,3569,10898,ok,Harry: Hoy es viernes veinte de noviembre. Son las diez y treinta y uno de la mañana.
+2026-11-20 10:37:47,paula,2026-11-20 10:37,IP_FIJA,3317,2.71,3612,3.4,4409,11660,ok,Paula: Hoy es viernes veinte de noviembre. Son las diez y treinta y siete de la mañana.
+2026-11-20 10:49:10,lina,2026-11-20 10:49,,,,,,,4221,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-20 10:49:37,lina,2026-11-20 10:49,,,,,,,15321,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-20 10:50:19,lina,2026-11-20 10:50,,,,,,,4225,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-20 10:50:47,lina,2026-11-20 10:50,,,,,,,15327,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-20 10:52:09,lina,2026-11-20 10:52,,,,,,,1535,sin_wifi,Sin WiFi en la mano: no responde en 192.168.43.228:5001
+2026-11-20 10:52:38,harry,2026-11-20 10:52,mano.local,725,2.27,3157,2.84,3787,7935,ok,Harry: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y dos de la mañana.
+2026-11-20 10:52:56,lina,2026-11-20 10:52,mano.local,1066,2.39,3278,2.99,3959,8537,ok,Lina: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y dos de la mañana.
+2026-11-20 10:54:58,harry,2026-11-20 10:54,mano.local,3475,2.27,3177,3.01,3965,10769,ok,Harry: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y cuatro de la mañana.
+2026-11-20 10:56:25,jeanpaul,2026-11-20 10:56,mano.local,764,1.96,3386,2.5,3378,7908,ok,Jean Paul: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y seis de la mañana.
+2026-11-20 10:56:38,jeanpaul,2026-11-20 10:56,mano.local,491,1.96,2655,2.5,3350,7014,ok,Jean Paul: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y seis de la mañana.
+2026-11-20 10:58:39,paula,2026-11-20 10:58,mano.local,3579,2.71,3573,3.48,4410,11882,ok,Paula: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y ocho de la mañana.
+2026-11-20 10:59:00,paula,2026-11-20 10:59,mano.local,690,2.71,3489,3.54,4436,9031,ok,Paula: Hoy es viernes veinte de noviembre. Son las diez y cincuenta y nueve de la mañana.

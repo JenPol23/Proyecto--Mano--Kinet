@@ -1,0 +1,60 @@
+{
+  "_nota": "Mapeo palabra -> persona -> audio. 'audio' es el nombre base del archivo (sin extension) en voces/ (raiz del proyecto, la unica carpeta de entrada). Para agregar un audio basta con poner el archivo en voces/; vale la extension doble de WhatsApp (Maldonado.mp3.mpeg = Maldonado). Solo se usa el PRIMER apellido: cualquier otro audio de voces/ (p. ej. Rivera.mp3) se ignora porque no esta aqui.",
+  "_reglas": "Se acepta cualquier grupo de palabras de UNA misma persona, en el orden de 'palabras'. Mezcla de personas o desorden -> 'No coincide con un integrante'. En pantalla se muestra 'texto' tal cual (con sus tildes); la mano y la comparacion del OCR usan el texto sin tildes.",
+  "_frases": "Si lo reconocido es exactamente una de las 'frases' y existe su grabacion, suena solo ese archivo; si no, se unen las palabras sueltas con pausa_entre_palabras_ms.",
+  "carpetas_audio": ["voces"],
+  "extensiones": [".mp3", ".mp4", ".m4a", ".wav", ".ogg", ".mpeg"],
+  "no_usar": ["Jean.wav", "0-000.wav", "output.wav"],
+  "pausa_entre_palabras_ms": 250,
+  "personas": {
+    "jeanpaul": {
+      "nombre_completo": "Jean Paul Miranda",
+      "palabras": [
+        {"texto": "Jean",    "tipo": "nombre",   "audio": "JEAN"},
+        {"texto": "Paul",    "tipo": "nombre",   "audio": "Paul"},
+        {"texto": "Miranda", "tipo": "apellido", "audio": "Miranda"}
+      ],
+      "frases": [
+        {"palabras": ["Jean", "Miranda"],         "audio": "Jean_Miranda"},
+        {"palabras": ["Jean", "Paul", "Miranda"], "audio": "Jean_Paul_Miranda"}
+      ]
+    },
+    "harry": {
+      "nombre_completo": "Harry Raigozo",
+      "palabras": [
+        {"texto": "Harry",   "tipo": "nombre",   "audio": "Harry"},
+        {"texto": "Raigozo", "tipo": "apellido", "audio": "Raigozo"}
+      ],
+      "frases": [
+        {"palabras": ["Harry", "Raigozo"], "audio": "Harry_Raigozo"}
+      ]
+    },
+    "lina": {
+      "nombre_completo": "Lina Tatiana Maldonado",
+      "palabras": [
+        {"texto": "Lina",      "tipo": "nombre",   "audio": "Lina"},
+        {"texto": "Tatiana",   "tipo": "nombre",   "audio": "Tatiana"},
+        {"texto": "Maldonado", "tipo": "apellido", "audio": "Maldonado"}
+      ],
+      "frases": [
+        {"palabras": ["Lina", "Maldonado"],            "audio": "Lina_Maldonado"},
+        {"palabras": ["Lina", "Tatiana", "Maldonado"], "audio": "Lina_Tatiana_Maldonado"}
+      ]
+    },
+    "paula": {
+      "nombre_completo": "Paula Camila Enríquez",
+      "palabras": [
+        {"texto": "Paula",    "tipo": "nombre",   "audio": "Paula"},
+        {"texto": "Camila",   "tipo": "nombre",   "audio": "Camila"},
+        {"texto": "Enríquez", "tipo": "apellido", "audio": "Enriquez"}
+      ],
+      "frases": [
+        {"palabras": ["Paula", "Enríquez"],           "audio": "Paula_Enriquez"},
+        {"palabras": ["Paula", "Camila", "Enríquez"], "audio": "Paula_Camila_Enriquez"}
+      ]
+    }
+  },
+  "ambiguos": {
+    "jean": "jeanpaul"
+  }
+}

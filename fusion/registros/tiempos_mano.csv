@@ -1,0 +1,506 @@
+﻿id_prueba,fecha_hora,texto,palabra,tramo,letra,tipo,seg_letra,seg_acumulado,resultado
+2026-10-28 14:36:55,2026-10-28 14:36:56.897,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 14:36:55,2026-10-28 14:37:01.182,Lina,Lina,lina,i,estática,4.28,5.55,ok
+2026-10-28 14:36:55,2026-10-28 14:37:06.583,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 14:36:55,2026-10-28 14:37:12.401,Lina,Lina,lina,a,estática,5.82,16.77,ok
+2026-10-28 14:36:55,2026-10-28 14:37:15.820,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 14:37:36,2026-10-28 14:37:38.299,Raigozo,Raigozo,rai,r,estática,2.07,2.07,ok
+2026-10-28 14:37:36,2026-10-28 14:37:43.762,Raigozo,Raigozo,rai,a,estática,5.46,7.53,ok
+2026-10-28 14:37:36,2026-10-28 14:37:49.163,Raigozo,Raigozo,rai,i,estática,5.40,12.93,ok
+2026-10-28 14:37:36,2026-10-28 14:37:52.191,Raigozo,Raigozo,[G],g,con movimiento,3.03,15.96,ok
+2026-10-28 14:37:36,2026-10-28 14:37:55.762,Raigozo,Raigozo,o,o,estática,3.57,19.53,ok
+2026-10-28 14:37:36,2026-10-28 14:37:58.943,Raigozo,Raigozo,[Z],z,con movimiento,3.18,22.71,ok
+2026-10-28 14:37:36,2026-10-28 14:38:02.540,Raigozo,Raigozo,o,o,estática,3.60,26.31,ok
+2026-10-28 14:37:36,2026-10-28 14:38:05.712,Raigozo,Raigozo,,,fin,3.18,29.49,ok
+2026-10-28 14:51:38,2026-10-28 14:51:39.393,Lina,Lina,lina,l,estática,1.30,1.30,ok
+2026-10-28 14:51:38,2026-10-28 14:51:43.757,Lina,Lina,lina,i,estática,4.37,5.67,ok
+2026-10-28 14:51:38,2026-10-28 14:51:49.099,Lina,Lina,lina,n,estática,5.34,11.01,ok
+2026-10-28 14:51:38,2026-10-28 14:51:54.918,Lina,Lina,lina,a,estática,5.82,16.83,ok
+2026-10-28 14:51:38,2026-10-28 14:51:58.278,Lina,Lina,,,fin,3.36,20.19,ok
+2026-10-28 14:52:21,2026-10-28 14:52:24.102,Raigozo,Raigozo,rai,r,estática,2.10,2.10,ok
+2026-10-28 14:52:21,2026-10-28 14:52:29.564,Raigozo,Raigozo,rai,a,estática,5.46,7.56,ok
+2026-10-28 14:52:21,2026-10-28 14:52:34.961,Raigozo,Raigozo,rai,i,estática,5.40,12.96,ok
+2026-10-28 14:52:21,2026-10-28 14:52:37.899,Raigozo,Raigozo,[G],g,con movimiento,2.94,15.90,ok
+2026-10-28 14:52:21,2026-10-28 14:52:41.554,Raigozo,Raigozo,o,o,estática,3.66,19.56,ok
+2026-10-28 14:52:21,2026-10-28 14:52:44.742,Raigozo,Raigozo,[Z],z,con movimiento,3.18,22.74,ok
+2026-10-28 14:52:21,2026-10-28 14:52:48.332,Raigozo,Raigozo,o,o,estática,3.60,26.34,ok
+2026-10-28 14:52:21,2026-10-28 14:52:51.582,Raigozo,Raigozo,,,fin,3.24,29.58,ok
+2026-10-28 15:25:51,2026-10-28 15:25:52.443,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 15:25:51,2026-10-28 15:25:56.772,Lina,Lina,lina,i,estática,4.32,5.58,ok
+2026-10-28 15:25:51,2026-10-28 15:26:02.169,Lina,Lina,lina,n,estática,5.40,10.98,ok
+2026-10-28 15:25:51,2026-10-28 15:26:07.929,Lina,Lina,lina,a,estática,5.76,16.74,ok
+2026-10-28 15:25:51,2026-10-28 15:26:11.349,Lina,Lina,,,fin,3.42,20.16,ok
+2026-10-28 15:27:01,2026-10-28 15:27:02.678,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 15:27:01,2026-10-28 15:27:07.004,Lina,Lina,lina,i,estática,4.32,5.58,ok
+2026-10-28 15:27:01,2026-10-28 15:27:12.412,Lina,Lina,lina,n,estática,5.41,10.99,ok
+2026-10-28 15:27:01,2026-10-28 15:27:18.169,Lina,Lina,lina,a,estática,5.76,16.75,ok
+2026-10-28 15:27:01,2026-10-28 15:27:21.582,Lina,Lina,,,fin,3.41,20.16,ok
+2026-10-28 15:37:51,2026-10-28 15:37:52.823,Lina,Lina,lina,l,estática,1.32,1.32,ok
+2026-10-28 15:37:51,2026-10-28 15:37:57.081,Lina,Lina,lina,i,estática,4.26,5.58,ok
+2026-10-28 15:37:51,2026-10-28 15:38:02.484,Lina,Lina,lina,n,estática,5.40,10.98,ok
+2026-10-28 15:37:51,2026-10-28 15:38:08.302,Lina,Lina,lina,a,estática,5.82,16.80,ok
+2026-10-28 15:37:51,2026-10-28 15:38:11.661,Lina,Lina,,,fin,3.36,20.16,ok
+2026-10-28 15:38:34,2026-10-28 15:38:35.577,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 15:38:34,2026-10-28 15:38:39.855,Lina,Lina,lina,i,estática,4.28,5.55,ok
+2026-10-28 15:38:34,2026-10-28 15:38:45.257,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 15:38:34,2026-10-28 15:38:51.076,Lina,Lina,lina,a,estática,5.82,16.77,ok
+2026-10-28 15:38:34,2026-10-28 15:38:54.498,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 15:47:26,2026-10-28 15:47:27.910,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 15:47:26,2026-10-28 15:47:32.190,Lina,Lina,lina,i,estática,4.28,5.55,ok
+2026-10-28 15:47:26,2026-10-28 15:47:37.590,Lina,Lina,lina,n,estática,5.40,10.96,ok
+2026-10-28 15:47:26,2026-10-28 15:47:43.410,Lina,Lina,lina,a,estática,5.82,16.77,ok
+2026-10-28 15:47:26,2026-10-28 15:47:46.864,Lina,Lina,,,fin,3.45,20.23,ok
+2026-10-28 15:52:23,2026-10-28 15:52:24.518,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 15:52:23,2026-10-28 15:52:28.826,Lina,Lina,lina,i,estática,4.31,5.57,ok
+2026-10-28 15:52:23,2026-10-28 15:52:34.226,Lina,Lina,lina,n,estática,5.40,10.97,ok
+2026-10-28 15:52:23,2026-10-28 15:52:40.048,Lina,Lina,lina,a,estática,5.82,16.79,ok
+2026-10-28 15:52:23,2026-10-28 15:52:43.410,Lina,Lina,,,fin,3.36,20.15,ok
+2026-10-28 15:54:30,2026-10-28 15:54:31.849,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 15:54:30,2026-10-28 15:54:36.131,Lina,Lina,lina,i,estática,4.28,5.55,ok
+2026-10-28 15:54:30,2026-10-28 15:54:41.527,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 15:54:30,2026-10-28 15:54:47.350,Lina,Lina,lina,a,estática,5.82,16.77,ok
+2026-10-28 15:54:30,2026-10-28 15:54:50.766,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 15:56:47,2026-10-28 15:56:48.366,Lina,Lina,lina,l,estática,1.28,1.28,ok
+2026-10-28 15:56:47,2026-10-28 15:56:52.686,Lina,Lina,lina,i,estática,4.32,5.60,ok
+2026-10-28 15:56:47,2026-10-28 15:56:58.025,Lina,Lina,lina,n,estática,5.34,10.94,ok
+2026-10-28 15:56:47,2026-10-28 15:57:03.850,Lina,Lina,lina,a,estática,5.82,16.76,ok
+2026-10-28 15:56:47,2026-10-28 15:57:07.265,Lina,Lina,,,fin,3.42,20.18,ok
+2026-10-28 15:58:27,2026-10-28 15:58:28.700,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 15:58:27,2026-10-28 15:58:32.996,Lina,Lina,lina,i,estática,4.30,5.55,ok
+2026-10-28 15:58:27,2026-10-28 15:58:38.390,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 15:58:27,2026-10-28 15:58:44.210,Lina,Lina,lina,a,estática,5.82,16.77,ok
+2026-10-28 15:58:27,2026-10-28 15:58:47.631,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 15:59:50,2026-10-28 15:59:51.836,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 15:59:50,2026-10-28 15:59:56.115,Lina,Lina,lina,i,estática,4.28,5.54,ok
+2026-10-28 15:59:50,2026-10-28 16:00:01.515,Lina,Lina,lina,n,estática,5.40,10.94,ok
+2026-10-28 15:59:50,2026-10-28 16:00:07.335,Lina,Lina,lina,a,estática,5.82,16.76,ok
+2026-10-28 15:59:50,2026-10-28 16:00:10.755,Lina,Lina,,,fin,3.42,20.17,ok
+2026-10-28 16:00:30,2026-10-28 16:00:31.970,Lina,Lina,lina,l,estática,1.32,1.32,ok
+2026-10-28 16:00:30,2026-10-28 16:00:36.234,Lina,Lina,lina,i,estática,4.26,5.58,ok
+2026-10-28 16:00:30,2026-10-28 16:00:41.634,Lina,Lina,lina,n,estática,5.40,10.98,ok
+2026-10-28 16:00:30,2026-10-28 16:00:47.390,Lina,Lina,lina,a,estática,5.76,16.74,ok
+2026-10-28 16:00:30,2026-10-28 16:00:50.810,Lina,Lina,,,fin,3.42,20.16,ok
+2026-10-28 16:02:03,2026-10-28 16:02:04.610,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 16:02:03,2026-10-28 16:02:08.872,Lina,Lina,lina,i,estática,4.26,5.52,ok
+2026-10-28 16:02:03,2026-10-28 16:02:14.334,Lina,Lina,lina,n,estática,5.46,10.98,ok
+2026-10-28 16:02:03,2026-10-28 16:02:20.097,Lina,Lina,lina,a,estática,5.76,16.74,ok
+2026-10-28 16:02:03,2026-10-28 16:02:23.514,Lina,Lina,,,fin,3.42,20.16,ok
+2026-10-28 16:02:53,2026-10-28 16:02:54.403,Lina,Lina,lina,l,estática,1.29,1.29,ok
+2026-10-28 16:02:53,2026-10-28 16:02:58.670,Lina,Lina,lina,i,estática,4.27,5.56,ok
+2026-10-28 16:02:53,2026-10-28 16:03:04.124,Lina,Lina,lina,n,estática,5.45,11.01,ok
+2026-10-28 16:02:53,2026-10-28 16:03:09.884,Lina,Lina,lina,a,estática,5.76,16.77,ok
+2026-10-28 16:02:53,2026-10-28 16:03:13.302,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 16:04:37,2026-10-28 16:04:38.405,Lina,Lina,lina,l,estática,1.28,1.28,ok
+2026-10-28 16:04:37,2026-10-28 16:04:42.710,Lina,Lina,lina,i,estática,4.31,5.58,ok
+2026-10-28 16:04:37,2026-10-28 16:04:48.113,Lina,Lina,lina,n,estática,5.40,10.98,ok
+2026-10-28 16:04:37,2026-10-28 16:04:53.876,Lina,Lina,lina,a,estática,5.76,16.75,ok
+2026-10-28 16:04:37,2026-10-28 16:04:57.290,Lina,Lina,,,fin,3.42,20.16,ok
+2026-10-28 16:08:54,2026-10-28 16:08:55.856,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 16:08:54,2026-10-28 16:09:00.130,Lina,Lina,lina,i,estática,4.28,5.54,ok
+2026-10-28 16:08:54,2026-10-28 16:09:05.533,Lina,Lina,lina,n,estática,5.40,10.94,ok
+2026-10-28 16:08:54,2026-10-28 16:09:11.356,Lina,Lina,lina,a,estática,5.82,16.76,ok
+2026-10-28 16:08:54,2026-10-28 16:09:14.775,Lina,Lina,,,fin,3.42,20.18,ok
+2026-10-28 16:10:10,2026-10-28 16:10:12.204,Lina,Lina,lina,l,estática,1.38,1.38,ok
+2026-10-28 16:10:10,2026-10-28 16:10:16.470,Lina,Lina,lina,i,estática,4.26,5.64,ok
+2026-10-28 16:10:10,2026-10-28 16:10:21.870,Lina,Lina,lina,n,estática,5.40,11.04,ok
+2026-10-28 16:10:10,2026-10-28 16:10:27.692,Lina,Lina,lina,a,estática,5.82,16.86,ok
+2026-10-28 16:10:10,2026-10-28 16:10:31.111,Lina,Lina,,,fin,3.42,20.28,ok
+2026-10-28 16:14:17,2026-10-28 16:14:18.705,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 16:14:17,2026-10-28 16:14:22.982,Lina,Lina,lina,i,estática,4.28,5.55,ok
+2026-10-28 16:14:17,2026-10-28 16:14:28.386,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 16:14:17,2026-10-28 16:14:34.153,Lina,Lina,lina,a,estática,5.77,16.72,ok
+2026-10-28 16:14:17,2026-10-28 16:14:37.623,Lina,Lina,,,fin,3.47,20.19,ok
+2026-10-28 16:14:56,2026-10-28 16:14:58.161,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 16:14:56,2026-10-28 16:15:02.481,Lina,Lina,lina,i,estática,4.32,5.58,ok
+2026-10-28 16:14:56,2026-10-28 16:15:07.883,Lina,Lina,lina,n,estática,5.40,10.98,ok
+2026-10-28 16:14:56,2026-10-28 16:15:13.657,Lina,Lina,lina,a,estática,5.78,16.76,ok
+2026-10-28 16:14:56,2026-10-28 16:15:17.061,Lina,Lina,,,fin,3.40,20.16,ok
+2026-10-28 16:21:23,2026-10-28 16:21:24.937,Lina,Lina,lina,l,estática,1.29,1.29,ok
+2026-10-28 16:21:23,2026-10-28 16:21:29.204,Lina,Lina,lina,i,estática,4.27,5.55,ok
+2026-10-28 16:21:23,2026-10-28 16:21:34.604,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 16:21:23,2026-10-28 16:21:40.429,Lina,Lina,lina,a,estática,5.83,16.78,ok
+2026-10-28 16:21:23,2026-10-28 16:21:43.842,Lina,Lina,,,fin,3.41,20.19,ok
+2026-10-28 16:24:41,2026-10-28 16:24:42.594,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 16:24:41,2026-10-28 16:24:46.870,Lina,Lina,lina,i,estática,4.28,5.54,ok
+2026-10-28 16:24:41,2026-10-28 16:24:52.274,Lina,Lina,lina,n,estática,5.40,10.94,ok
+2026-10-28 16:24:41,2026-10-28 16:24:58.110,Lina,Lina,lina,a,estática,5.84,16.78,ok
+2026-10-28 16:24:41,2026-10-28 16:25:01.510,Lina,Lina,,,fin,3.40,20.18,ok
+2026-10-28 16:26:08,2026-10-28 16:26:09.296,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 16:26:08,2026-10-28 16:26:13.585,Lina,Lina,lina,i,estática,4.29,5.55,ok
+2026-10-28 16:26:08,2026-10-28 16:26:18.989,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 16:26:08,2026-10-28 16:26:24.824,Lina,Lina,lina,a,estática,5.84,16.79,ok
+2026-10-28 16:26:08,2026-10-28 16:26:28.232,Lina,Lina,,,fin,3.40,20.19,ok
+2026-10-28 16:28:14,2026-10-28 16:28:15.771,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 16:28:14,2026-10-28 16:28:20.067,Lina,Lina,lina,i,estática,4.29,5.57,ok
+2026-10-28 16:28:14,2026-10-28 16:28:25.467,Lina,Lina,lina,n,estática,5.40,10.97,ok
+2026-10-28 16:28:14,2026-10-28 16:28:31.286,Lina,Lina,lina,a,estática,5.82,16.78,ok
+2026-10-28 16:28:14,2026-10-28 16:28:34.647,Lina,Lina,,,fin,3.36,20.14,ok
+2026-10-28 16:31:16,2026-10-28 16:31:18.066,Lina,Lina,lina,l,estática,1.30,1.30,ok
+2026-10-28 16:31:16,2026-10-28 16:31:22.332,Lina,Lina,lina,i,estática,4.26,5.57,ok
+2026-10-28 16:31:16,2026-10-28 16:31:27.730,Lina,Lina,lina,n,estática,5.40,10.97,ok
+2026-10-28 16:31:16,2026-10-28 16:31:33.553,Lina,Lina,lina,a,estática,5.82,16.79,ok
+2026-10-28 16:31:16,2026-10-28 16:31:36.909,Lina,Lina,,,fin,3.36,20.15,ok
+2026-10-28 16:32:13,2026-10-28 16:32:14.328,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 16:32:13,2026-10-28 16:32:18.639,Lina,Lina,lina,i,estática,4.31,5.58,ok
+2026-10-28 16:32:13,2026-10-28 16:32:24.039,Lina,Lina,lina,n,estática,5.40,10.98,ok
+2026-10-28 16:32:13,2026-10-28 16:32:29.800,Lina,Lina,lina,a,estática,5.76,16.74,ok
+2026-10-28 16:32:13,2026-10-28 16:32:33.219,Lina,Lina,,,fin,3.42,20.16,ok
+2026-10-28 16:37:18,2026-10-28 16:37:19.696,Lina,Lina,lina,l,estática,1.27,1.27,ok
+2026-10-28 16:37:18,2026-10-28 16:37:23.977,Lina,Lina,lina,i,estática,4.28,5.55,ok
+2026-10-28 16:37:18,2026-10-28 16:37:29.404,Lina,Lina,lina,n,estática,5.43,10.98,ok
+2026-10-28 16:37:18,2026-10-28 16:37:35.191,Lina,Lina,lina,a,estática,5.79,16.77,ok
+2026-10-28 16:37:18,2026-10-28 16:37:38.612,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 16:40:13,2026-10-28 16:40:14.554,Lina,Lina,lina,l,estática,1.30,1.30,ok
+2026-10-28 16:40:13,2026-10-28 16:40:18.822,Lina,Lina,lina,i,estática,4.26,5.57,ok
+2026-10-28 16:40:13,2026-10-28 16:40:24.220,Lina,Lina,lina,n,estática,5.40,10.97,ok
+2026-10-28 16:40:13,2026-10-28 16:40:30.044,Lina,Lina,lina,a,estática,5.82,16.79,ok
+2026-10-28 16:40:13,2026-10-28 16:40:33.400,Lina,Lina,,,fin,3.36,20.15,ok
+2026-10-28 16:46:52,2026-10-28 16:46:53.694,Lina,Lina,lina,l,estática,1.26,1.26,ok
+2026-10-28 16:46:52,2026-10-28 16:46:57.994,Lina,Lina,lina,i,estática,4.29,5.55,ok
+2026-10-28 16:46:52,2026-10-28 16:47:03.394,Lina,Lina,lina,n,estática,5.40,10.95,ok
+2026-10-28 16:46:52,2026-10-28 16:47:09.217,Lina,Lina,lina,a,estática,5.82,16.78,ok
+2026-10-28 16:46:52,2026-10-28 16:47:12.637,Lina,Lina,,,fin,3.42,20.19,ok
+2026-10-28 18:26:16,2026-10-28 18:26:16.595,Tatiana Maldonado,Tatiana,tatiana,t,estática,0.46,0.46,ok
+2026-10-28 18:26:16,2026-10-28 18:26:20.483,Tatiana Maldonado,Tatiana,tatiana,a,estática,3.89,4.35,ok
+2026-10-28 18:26:16,2026-10-28 18:26:24.263,Tatiana Maldonado,Tatiana,tatiana,t,estática,3.78,8.13,ok
+2026-10-28 18:26:16,2026-10-28 18:26:27.680,Tatiana Maldonado,Tatiana,tatiana,i,estática,3.42,11.55,ok
+2026-10-28 18:26:16,2026-10-28 18:26:33.080,Tatiana Maldonado,Tatiana,tatiana,a,estática,5.40,16.95,ok
+2026-10-28 18:26:16,2026-10-28 18:26:38.903,Tatiana Maldonado,Tatiana,tatiana,n,estática,5.82,22.77,ok
+2026-10-28 18:26:16,2026-10-28 18:26:44.720,Tatiana Maldonado,Tatiana,tatiana,a,estática,5.82,28.59,ok
+2026-10-28 18:26:16,2026-10-28 18:26:48.141,Tatiana Maldonado,Maldonado,,,espacio,3.42,32.01,ok
+2026-10-28 18:26:16,2026-10-28 18:26:51.684,Tatiana Maldonado,Maldonado,maldonado,m,estática,3.54,35.55,ok
+2026-10-28 18:26:16,2026-10-28 18:26:57.443,Tatiana Maldonado,Maldonado,maldonado,a,estática,5.76,41.31,ok
+2026-10-28 18:26:16,2026-10-28 18:27:02.076,Tatiana Maldonado,Maldonado,maldonado,l,estática,4.64,45.95,ok
+2026-10-28 18:26:16,2026-10-28 18:27:06.301,Tatiana Maldonado,Maldonado,maldonado,d,estática,4.22,50.17,ok
+2026-10-28 18:26:16,2026-10-28 18:27:11.302,Tatiana Maldonado,Maldonado,maldonado,o,estática,5.00,55.17,ok
+2026-10-28 18:26:16,2026-10-28 18:27:16.699,Tatiana Maldonado,Maldonado,maldonado,n,estática,5.40,60.57,ok
+2026-10-28 18:26:16,2026-10-28 18:27:22.476,Tatiana Maldonado,Maldonado,maldonado,a,estática,5.78,66.35,ok
+2026-10-28 18:26:16,2026-10-28 18:27:27.934,Tatiana Maldonado,Maldonado,maldonado,d,estática,5.46,71.80,ok
+2026-10-28 18:26:16,2026-10-28 18:27:32.904,Tatiana Maldonado,Maldonado,maldonado,o,estática,4.97,76.77,ok
+2026-10-28 18:26:16,2026-10-28 18:27:35.829,Tatiana Maldonado,Maldonado,,,fin,2.93,79.71,ok
+2026-10-28 20:39:33,2026-10-28 20:39:33.592,Tatiana Maldonado,Tatiana,tatiana,t,estática,0.46,0.46,ok
+2026-10-28 20:39:33,2026-10-28 20:39:37.484,Tatiana Maldonado,Tatiana,tatiana,a,estática,3.89,4.35,ok
+2026-10-28 20:39:33,2026-10-28 20:39:41.264,Tatiana Maldonado,Tatiana,tatiana,t,estática,3.78,8.13,ok
+2026-10-28 20:39:33,2026-10-28 20:39:44.693,Tatiana Maldonado,Tatiana,tatiana,i,estática,3.43,11.56,ok
+2026-10-28 20:39:33,2026-10-28 20:39:50.085,Tatiana Maldonado,Tatiana,tatiana,a,estática,5.39,16.95,ok
+2026-10-28 20:39:33,2026-10-28 20:39:55.904,Tatiana Maldonado,Tatiana,tatiana,n,estática,5.82,22.77,ok
+2026-10-28 20:39:33,2026-10-28 20:40:01.730,Tatiana Maldonado,Tatiana,tatiana,a,estática,5.82,28.59,ok
+2026-10-28 20:39:33,2026-10-28 20:40:05.147,Tatiana Maldonado,Maldonado,,,espacio,3.42,32.01,ok
+2026-10-28 20:39:33,2026-10-28 20:40:08.747,Tatiana Maldonado,Maldonado,maldonado,m,estática,3.60,35.61,ok
+2026-10-28 20:39:33,2026-10-28 20:40:14.504,Tatiana Maldonado,Maldonado,maldonado,a,estática,5.76,41.37,ok
+2026-10-28 20:39:33,2026-10-28 20:40:19.124,Tatiana Maldonado,Maldonado,maldonado,l,estática,4.62,45.99,ok
+2026-10-28 20:39:33,2026-10-28 20:40:23.325,Tatiana Maldonado,Maldonado,maldonado,d,estática,4.20,50.19,ok
+2026-10-28 20:39:33,2026-10-28 20:40:28.364,Tatiana Maldonado,Maldonado,maldonado,o,estática,5.04,55.23,ok
+2026-10-28 20:39:33,2026-10-28 20:40:33.768,Tatiana Maldonado,Maldonado,maldonado,n,estática,5.40,60.63,ok
+2026-10-28 20:39:33,2026-10-28 20:40:39.528,Tatiana Maldonado,Maldonado,maldonado,a,estática,5.76,66.39,ok
+2026-10-28 20:39:33,2026-10-28 20:40:44.985,Tatiana Maldonado,Maldonado,maldonado,d,estática,5.46,71.85,ok
+2026-10-28 20:39:33,2026-10-28 20:40:49.967,Tatiana Maldonado,Maldonado,maldonado,o,estática,4.98,76.83,ok
+2026-10-28 20:39:33,2026-10-28 20:40:52.904,Tatiana Maldonado,Maldonado,,,fin,2.94,79.76,ok
+2026-10-28 20:57:00,2026-10-28 20:57:00.981,Tatiana,Tatiana,tatiana,t,estática,0.49,0.49,ok
+2026-10-28 20:57:00,2026-10-28 20:57:04.883,Tatiana,Tatiana,tatiana,a,estática,3.90,4.39,ok
+2026-10-28 20:57:00,2026-10-28 20:57:08.720,Tatiana,Tatiana,tatiana,t,estática,3.84,8.23,ok
+2026-10-28 20:57:00,2026-10-28 20:57:12.081,Tatiana,Tatiana,tatiana,i,estática,3.36,11.59,ok
+2026-10-28 20:57:00,2026-10-28 20:57:17.543,Tatiana,Tatiana,tatiana,a,estática,5.46,17.05,ok
+2026-10-28 20:57:00,2026-10-28 20:57:23.301,Tatiana,Tatiana,tatiana,n,estática,5.76,22.81,ok
+2026-10-28 20:57:00,2026-10-28 20:57:29.063,Tatiana,Tatiana,tatiana,a,estática,5.76,28.58,ok
+2026-10-28 20:57:00,2026-10-28 20:57:32.481,Tatiana,Tatiana,,,fin,3.42,32.00,ok
+2026-10-28 20:58:24,2026-10-28 20:58:25.181,Tatiana,Tatiana,tatiana,t,estática,0.46,0.46,ok
+2026-10-28 20:58:24,2026-10-28 20:58:29.081,Tatiana,Tatiana,tatiana,a,estática,3.90,4.36,ok
+2026-10-28 20:58:24,2026-10-28 20:58:32.862,Tatiana,Tatiana,tatiana,t,estática,3.78,8.15,ok
+2026-10-28 20:58:24,2026-10-28 20:58:36.281,Tatiana,Tatiana,tatiana,i,estática,3.42,11.57,ok
+2026-10-28 20:58:24,2026-10-28 20:58:41.681,Tatiana,Tatiana,tatiana,a,estática,5.40,16.97,ok
+2026-10-28 20:58:24,2026-10-28 20:58:47.501,Tatiana,Tatiana,tatiana,n,estática,5.82,22.79,ok
+2026-10-28 20:58:24,2026-10-28 20:58:53.262,Tatiana,Tatiana,tatiana,a,estática,5.76,28.54,ok
+2026-10-28 20:58:24,2026-10-28 20:58:56.670,Tatiana,Tatiana,,,fin,3.42,31.96,ok
+2026-10-28 23:40:11,2026-10-28 23:40:11.754,Jean,Jean,[J],j,con movimiento,0.30,0.30,ok
+2026-10-28 23:40:11,2026-10-28 23:40:14.935,Jean,Jean,ean,e,estática,3.18,3.48,ok
+2026-10-28 23:40:11,2026-10-28 23:40:20.036,Jean,Jean,ean,a,estática,5.10,8.58,ok
+2026-10-28 23:40:11,2026-10-28 23:40:25.856,Jean,Jean,ean,n,estática,5.82,14.40,ok
+2026-10-28 23:40:11,2026-10-28 23:40:29.216,Jean,Jean,,,fin,3.36,17.76,ok
+2026-10-28 23:49:56,2026-10-28 23:49:58.504,Lina Tatiana,Lina,lina,l,estática,1.52,1.52,ok
+2026-10-28 23:49:56,2026-10-28 23:50:02.766,Lina Tatiana,Lina,lina,i,estática,4.26,5.78,ok
+2026-10-28 23:49:56,2026-10-28 23:50:08.166,Lina Tatiana,Lina,lina,n,estática,5.40,11.18,ok
+2026-10-28 23:49:56,2026-10-28 23:50:13.986,Lina Tatiana,Lina,lina,a,estática,5.82,17.00,ok
+2026-10-28 23:49:56,2026-10-28 23:50:17.405,Lina Tatiana,Tatiana,,,espacio,3.42,20.42,ok
+2026-10-28 23:49:56,2026-10-28 23:50:18.904,Lina Tatiana,Tatiana,tatiana,t,estática,1.50,21.92,ok
+2026-10-28 23:49:56,2026-10-28 23:50:22.806,Lina Tatiana,Tatiana,tatiana,a,estática,3.90,25.82,ok
+2026-10-28 23:49:56,2026-10-28 23:50:26.526,Lina Tatiana,Tatiana,tatiana,t,estática,3.72,29.54,ok
+2026-10-28 23:49:56,2026-10-28 23:50:29.946,Lina Tatiana,Tatiana,tatiana,i,estática,3.42,32.96,ok
+2026-10-28 23:49:56,2026-10-28 23:50:35.347,Lina Tatiana,Tatiana,tatiana,a,estática,5.40,38.36,ok
+2026-10-28 23:49:56,2026-10-28 23:50:41.167,Lina Tatiana,Tatiana,tatiana,n,estática,5.82,44.18,ok
+2026-10-28 23:49:56,2026-10-28 23:50:46.990,Lina Tatiana,Tatiana,tatiana,a,estática,5.82,50.00,ok
+2026-10-28 23:49:56,2026-10-28 23:50:50.349,Lina Tatiana,Tatiana,,,fin,3.36,53.36,ok
+2026-10-29 00:30:17,2026-10-29 00:30:18.773,Lina Tatiana,Lina,lina,l,estática,1.59,1.59,ok
+2026-10-29 00:30:17,2026-10-29 00:30:23.029,Lina Tatiana,Lina,lina,i,estática,4.26,5.84,ok
+2026-10-29 00:30:17,2026-10-29 00:30:28.429,Lina Tatiana,Lina,lina,n,estática,5.40,11.24,ok
+2026-10-29 00:30:17,2026-10-29 00:30:34.252,Lina Tatiana,Lina,lina,a,estática,5.82,17.07,ok
+2026-10-29 00:30:17,2026-10-29 00:30:37.609,Lina Tatiana,Tatiana,,,espacio,3.36,20.42,ok
+2026-10-29 00:30:17,2026-10-29 00:30:39.111,Lina Tatiana,Tatiana,tatiana,t,estática,1.50,21.92,ok
+2026-10-29 00:30:17,2026-10-29 00:30:42.953,Lina Tatiana,Tatiana,tatiana,a,estática,3.84,25.77,ok
+2026-10-29 00:30:17,2026-10-29 00:30:46.731,Lina Tatiana,Tatiana,tatiana,t,estática,3.78,29.54,ok
+2026-10-29 00:30:17,2026-10-29 00:30:50.160,Lina Tatiana,Tatiana,tatiana,i,estática,3.43,32.97,ok
+2026-10-29 00:30:17,2026-10-29 00:30:55.552,Lina Tatiana,Tatiana,tatiana,a,estática,5.39,38.37,ok
+2026-10-29 00:30:17,2026-10-29 00:31:01.373,Lina Tatiana,Tatiana,tatiana,n,estática,5.82,44.19,ok
+2026-10-29 00:30:17,2026-10-29 00:31:07.134,Lina Tatiana,Tatiana,tatiana,a,estática,5.76,49.95,ok
+2026-10-29 00:30:17,2026-10-29 00:31:10.552,Lina Tatiana,Tatiana,,,fin,3.42,53.37,ok
+2026-10-29 00:33:16,2026-10-29 00:33:17.153,Jean Paul,Jean,[J],j,con movimiento,0.29,0.29,ok
+2026-10-29 00:33:16,2026-10-29 00:33:20.456,Jean Paul,Jean,ean,e,estática,3.30,3.60,ok
+2026-10-29 00:33:16,2026-10-29 00:33:25.554,Jean Paul,Jean,ean,a,estática,5.10,8.69,ok
+2026-10-29 00:33:16,2026-10-29 00:33:31.378,Jean Paul,Jean,ean,n,estática,5.82,14.52,ok
+2026-10-29 00:33:16,2026-10-29 00:33:34.734,Jean Paul,Paul,,,espacio,3.36,17.87,ok
+2026-10-29 00:33:16,2026-10-29 00:33:38.273,Jean Paul,Paul,paul,p,estática,3.54,21.41,ok
+2026-10-29 00:33:16,2026-10-29 00:33:44.035,Jean Paul,Paul,paul,a,estática,5.76,27.17,ok
+2026-10-29 00:33:16,2026-10-29 00:33:49.075,Jean Paul,Paul,paul,u,estática,5.04,32.21,ok
+2026-10-29 00:33:16,2026-10-29 00:33:52.855,Jean Paul,Paul,paul,l,estática,3.78,35.99,ok
+2026-10-29 00:33:16,2026-10-29 00:33:55.012,Jean Paul,Paul,,,fin,2.16,38.15,ok
+2026-10-29 00:42:46,2026-10-29 00:42:47.142,Jean,Jean,[J],j,con movimiento,0.32,0.32,ok
+2026-10-29 00:42:46,2026-10-29 00:42:50.323,Jean,Jean,ean,e,estática,3.18,3.50,ok
+2026-10-29 00:42:46,2026-10-29 00:42:55.425,Jean,Jean,ean,a,estática,5.10,8.60,ok
+2026-10-29 00:42:46,2026-10-29 00:43:01.328,Jean,Jean,ean,n,estática,5.90,14.51,ok
+2026-10-29 00:42:46,2026-10-29 00:43:04.605,Jean,Jean,,,fin,3.28,17.78,ok
+2026-11-04 21:27:24,2026-11-04 21:27:27.179,Camila,Camila,camila,c,estática,2.27,2.27,ok
+2026-11-04 21:27:24,2026-11-04 21:27:32.635,Camila,Camila,camila,a,estática,5.46,7.72,ok
+2026-11-04 21:27:24,2026-11-04 21:27:38.456,Camila,Camila,camila,m,estática,5.82,13.54,ok
+2026-11-04 21:27:24,2026-11-04 21:27:43.854,Camila,Camila,camila,i,estática,5.40,18.94,ok
+2026-11-04 21:27:24,2026-11-04 21:27:48.055,Camila,Camila,camila,l,estática,4.20,23.14,ok
+2026-11-04 21:27:24,2026-11-04 21:27:52.674,Camila,Camila,camila,a,estática,4.62,27.76,ok
+2026-11-04 21:27:24,2026-11-04 21:27:56.093,Camila,Camila,,,fin,3.42,31.18,ok
+2026-11-12 21:46:17,2026-11-12 21:46:19.117,Lina Tatiana,Lina,lina,l,estática,1.50,1.50,ok
+2026-11-12 21:46:17,2026-11-12 21:46:23.380,Lina Tatiana,Lina,lina,i,estática,4.26,5.76,ok
+2026-11-12 21:46:17,2026-11-12 21:46:28.782,Lina Tatiana,Lina,lina,n,estática,5.40,11.16,ok
+2026-11-12 21:46:17,2026-11-12 21:46:34.599,Lina Tatiana,Lina,lina,a,estática,5.82,16.98,ok
+2026-11-12 21:46:17,2026-11-12 21:46:38.021,Lina Tatiana,Tatiana,,,espacio,3.42,20.40,ok
+2026-11-12 21:46:17,2026-11-12 21:46:39.457,Lina Tatiana,Tatiana,tatiana,t,estática,1.44,21.84,ok
+2026-11-12 21:46:17,2026-11-12 21:46:43.361,Lina Tatiana,Tatiana,tatiana,a,estática,3.90,25.74,ok
+2026-11-12 21:46:17,2026-11-12 21:46:47.140,Lina Tatiana,Tatiana,tatiana,t,estática,3.78,29.52,ok
+2026-11-12 21:46:17,2026-11-12 21:46:50.560,Lina Tatiana,Tatiana,tatiana,i,estática,3.42,32.94,ok
+2026-11-12 21:46:17,2026-11-12 21:46:56.019,Lina Tatiana,Tatiana,tatiana,a,estática,5.46,38.40,ok
+2026-11-12 21:46:17,2026-11-12 21:47:01.780,Lina Tatiana,Tatiana,tatiana,n,estática,5.76,44.16,ok
+2026-11-12 21:46:17,2026-11-12 21:47:07.600,Lina Tatiana,Tatiana,tatiana,a,estática,5.82,49.98,ok
+2026-11-12 21:46:17,2026-11-12 21:47:11.019,Lina Tatiana,Tatiana,,,fin,3.42,53.40,ok
+2026-11-12 23:09:15,2026-11-12 23:09:16.852,Lina,Lina,lina,l,estática,1.40,1.40,ok
+2026-11-12 23:09:15,2026-11-12 23:09:21.052,Lina,Lina,lina,i,estática,4.20,5.60,ok
+2026-11-12 23:09:15,2026-11-12 23:09:26.514,Lina,Lina,lina,n,estática,5.46,11.06,ok
+2026-11-12 23:09:15,2026-11-12 23:09:32.333,Lina,Lina,lina,a,estática,5.82,16.88,ok
+2026-11-12 23:09:15,2026-11-12 23:09:35.693,Lina,Lina,,,fin,3.36,20.24,ok
+2026-11-12 23:12:50,2026-11-12 23:12:51.961,Lina,Lina,lina,l,estática,1.55,1.55,error: Deletreo detenido
+2026-11-12 23:12:50,2026-11-12 23:12:56.223,Lina,Lina,lina,i,estática,4.26,5.81,error: Deletreo detenido
+2026-11-12 23:12:50,2026-11-12 23:13:01.561,Lina,Lina,lina,n,estática,5.34,11.15,error: Deletreo detenido
+2026-11-12 23:17:00,2026-11-12 23:17:01.011,Jean Paul,Jean,[J],j,con movimiento,0.26,0.26,ok
+2026-11-12 23:17:00,2026-11-12 23:17:04.192,Jean Paul,Jean,ean,e,estática,3.18,3.44,ok
+2026-11-12 23:17:00,2026-11-12 23:17:09.354,Jean Paul,Jean,ean,a,estática,5.16,8.60,ok
+2026-11-12 23:17:00,2026-11-12 23:17:15.114,Jean Paul,Jean,ean,n,estática,5.76,14.36,ok
+2026-11-12 23:17:00,2026-11-12 23:17:18.536,Jean Paul,Paul,,,espacio,3.42,17.79,ok
+2026-11-12 23:17:00,2026-11-12 23:17:22.075,Jean Paul,Paul,paul,p,estática,3.54,21.33,ok
+2026-11-12 23:17:00,2026-11-12 23:17:27.893,Jean Paul,Paul,paul,a,estática,5.82,27.14,ok
+2026-11-12 23:17:00,2026-11-12 23:17:32.875,Jean Paul,Paul,paul,u,estática,4.98,32.12,ok
+2026-11-12 23:17:00,2026-11-12 23:17:36.713,Jean Paul,Paul,paul,l,estática,3.84,35.96,ok
+2026-11-12 23:17:00,2026-11-12 23:17:38.872,Jean Paul,Paul,,,fin,2.16,38.12,ok
+2026-11-13 10:03:01,2026-11-13 10:03:02.613,Lina,Lina,lina,l,estática,1.46,1.46,ok
+2026-11-13 10:03:01,2026-11-13 10:03:06.813,Lina,Lina,lina,i,estática,4.20,5.66,ok
+2026-11-13 10:03:01,2026-11-13 10:03:12.273,Lina,Lina,lina,n,estática,5.46,11.12,ok
+2026-11-13 10:03:01,2026-11-13 10:03:18.033,Lina,Lina,lina,a,estática,5.76,16.88,ok
+2026-11-13 10:03:01,2026-11-13 10:03:21.453,Lina,Lina,,,fin,3.42,20.30,ok
+2026-11-13 10:13:41,2026-11-13 10:13:47.564,Lina Tatiana,Lina,lina,l,estática,6.31,6.31,ok
+2026-11-13 10:13:41,2026-11-13 10:13:51.764,Lina Tatiana,Lina,lina,i,estática,4.20,10.51,ok
+2026-11-13 10:13:41,2026-11-13 10:13:57.226,Lina Tatiana,Lina,lina,n,estática,5.46,15.97,ok
+2026-11-13 10:13:41,2026-11-13 10:14:02.983,Lina Tatiana,Lina,lina,a,estática,5.76,21.72,ok
+2026-11-13 10:13:41,2026-11-13 10:14:06.402,Lina Tatiana,Tatiana,,,espacio,3.42,25.14,ok
+2026-11-13 10:13:41,2026-11-13 10:14:07.843,Lina Tatiana,Tatiana,tatiana,t,estática,1.44,26.58,ok
+2026-11-13 10:13:41,2026-11-13 10:14:11.683,Lina Tatiana,Tatiana,tatiana,a,estática,3.84,30.42,ok
+2026-11-13 10:13:41,2026-11-13 10:14:15.463,Lina Tatiana,Tatiana,tatiana,t,estática,3.78,34.20,ok
+2026-11-13 10:13:41,2026-11-13 10:14:18.883,Lina Tatiana,Tatiana,tatiana,i,estática,3.42,37.62,ok
+2026-11-13 10:13:41,2026-11-13 10:14:24.283,Lina Tatiana,Tatiana,tatiana,a,estática,5.40,43.02,ok
+2026-11-13 10:13:41,2026-11-13 10:14:30.103,Lina Tatiana,Tatiana,tatiana,n,estática,5.82,48.84,ok
+2026-11-13 10:13:41,2026-11-13 10:14:35.982,Lina Tatiana,Tatiana,tatiana,a,estática,5.88,54.72,ok
+2026-11-13 10:13:41,2026-11-13 10:14:39.342,Lina Tatiana,Tatiana,,,fin,3.36,58.08,ok
+2026-11-13 10:28:13,2026-11-13 10:28:14.555,Lina,Lina,lina,l,estática,1.41,1.41,ok
+2026-11-13 10:28:13,2026-11-13 10:28:18.754,Lina,Lina,lina,i,estática,4.20,5.60,ok
+2026-11-13 10:28:13,2026-11-13 10:28:24.214,Lina,Lina,lina,n,estática,5.46,11.06,ok
+2026-11-13 10:28:13,2026-11-13 10:28:29.976,Lina,Lina,lina,a,estática,5.76,16.83,ok
+2026-11-13 10:28:13,2026-11-13 10:28:33.395,Lina,Lina,,,fin,3.42,20.25,ok
+2026-11-13 10:30:54,2026-11-13 10:30:56.312,Lina Tatiana,Lina,lina,l,estática,1.55,1.55,ok
+2026-11-13 10:30:54,2026-11-13 10:31:00.513,Lina Tatiana,Lina,lina,i,estática,4.20,5.75,ok
+2026-11-13 10:30:54,2026-11-13 10:31:05.972,Lina Tatiana,Lina,lina,n,estática,5.46,11.21,ok
+2026-11-13 10:30:54,2026-11-13 10:31:11.732,Lina Tatiana,Lina,lina,a,estática,5.76,16.97,ok
+2026-11-13 10:30:54,2026-11-13 10:31:15.152,Lina Tatiana,Tatiana,,,espacio,3.42,20.39,ok
+2026-11-13 10:30:54,2026-11-13 10:31:16.593,Lina Tatiana,Tatiana,tatiana,t,estática,1.44,21.83,ok
+2026-11-13 10:30:54,2026-11-13 10:31:20.431,Lina Tatiana,Tatiana,tatiana,a,estática,3.84,25.67,ok
+2026-11-13 10:30:54,2026-11-13 10:31:24.212,Lina Tatiana,Tatiana,tatiana,t,estática,3.78,29.45,ok
+2026-11-13 10:30:54,2026-11-13 10:31:27.631,Lina Tatiana,Tatiana,tatiana,i,estática,3.42,32.87,ok
+2026-11-13 10:30:54,2026-11-13 10:31:33.031,Lina Tatiana,Tatiana,tatiana,a,estática,5.40,38.27,ok
+2026-11-13 10:30:54,2026-11-13 10:31:38.852,Lina Tatiana,Tatiana,tatiana,n,estática,5.82,44.09,ok
+2026-11-13 10:30:54,2026-11-13 10:31:44.672,Lina Tatiana,Tatiana,tatiana,a,estática,5.82,49.91,ok
+2026-11-13 10:30:54,2026-11-13 10:31:48.093,Lina Tatiana,Tatiana,,,fin,3.42,53.33,ok
+2026-11-13 10:41:43,2026-11-13 10:41:45.147,Lina Tatiana,Lina,lina,l,estática,1.56,1.56,ok
+2026-11-13 10:41:43,2026-11-13 10:41:49.465,Lina Tatiana,Lina,lina,i,estática,4.32,5.88,ok
+2026-11-13 10:41:43,2026-11-13 10:41:54.685,Lina Tatiana,Lina,lina,n,estática,5.22,11.10,ok
+2026-11-13 10:41:43,2026-11-13 10:42:00.505,Lina Tatiana,Lina,lina,a,estática,5.82,16.92,ok
+2026-11-13 10:41:43,2026-11-13 10:42:03.924,Lina Tatiana,Tatiana,,,espacio,3.42,20.34,ok
+2026-11-13 10:41:43,2026-11-13 10:42:05.426,Lina Tatiana,Tatiana,tatiana,t,estática,1.50,21.84,ok
+2026-11-13 10:41:43,2026-11-13 10:42:09.205,Lina Tatiana,Tatiana,tatiana,a,estática,3.78,25.62,ok
+2026-11-13 10:41:43,2026-11-13 10:42:12.984,Lina Tatiana,Tatiana,tatiana,t,estática,3.78,29.40,ok
+2026-11-13 10:41:43,2026-11-13 10:42:16.404,Lina Tatiana,Tatiana,tatiana,i,estática,3.42,32.82,ok
+2026-11-13 10:41:43,2026-11-13 10:42:21.865,Lina Tatiana,Tatiana,tatiana,a,estática,5.46,38.28,ok
+2026-11-13 10:41:43,2026-11-13 10:42:27.624,Lina Tatiana,Tatiana,tatiana,n,estática,5.76,44.04,ok
+2026-11-13 10:41:43,2026-11-13 10:42:33.444,Lina Tatiana,Tatiana,tatiana,a,estática,5.82,49.86,ok
+2026-11-13 10:41:43,2026-11-13 10:42:36.864,Lina Tatiana,Tatiana,,,fin,3.42,53.28,ok
+2026-11-13 10:47:38,2026-11-13 10:47:38.242,Harry,Harry,[H],h,con movimiento,0.21,0.21,ok
+2026-11-13 10:47:38,2026-11-13 10:47:42.383,Harry,Harry,arry,a,estática,4.14,4.35,ok
+2026-11-13 10:47:38,2026-11-13 10:47:47.903,Harry,Harry,arry,r,estática,5.52,9.87,ok
+2026-11-13 10:47:38,2026-11-13 10:47:52.762,Harry,Harry,arry,r,estática,4.86,14.73,ok
+2026-11-13 10:47:38,2026-11-13 10:47:57.022,Harry,Harry,arry,y,estática,4.26,18.99,ok
+2026-11-13 10:47:38,2026-11-13 10:47:59.241,Harry,Harry,,,fin,2.22,21.21,ok
+2026-11-13 10:49:07,2026-11-13 10:49:08.122,Harry,Harry,[H],h,con movimiento,0.21,0.21,ok
+2026-11-13 10:49:07,2026-11-13 10:49:12.140,Harry,Harry,arry,a,estática,4.02,4.23,ok
+2026-11-13 10:49:07,2026-11-13 10:49:17.541,Harry,Harry,arry,r,estática,5.40,9.63,ok
+2026-11-13 10:49:07,2026-11-13 10:49:22.640,Harry,Harry,arry,r,estática,5.10,14.73,ok
+2026-11-13 10:49:07,2026-11-13 10:49:26.781,Harry,Harry,arry,y,estática,4.14,18.87,ok
+2026-11-13 10:49:07,2026-11-13 10:49:29.000,Harry,Harry,,,fin,2.22,21.09,ok
+2026-11-13 10:50:00,2026-11-13 10:50:00.500,Jean,Jean,[J],j,con movimiento,0.19,0.19,ok
+2026-11-13 10:50:00,2026-11-13 10:50:03.680,Jean,Jean,ean,e,estática,3.18,3.37,ok
+2026-11-13 10:50:00,2026-11-13 10:50:08.721,Jean,Jean,ean,a,estática,5.04,8.41,ok
+2026-11-13 10:50:00,2026-11-13 10:50:14.541,Jean,Jean,ean,n,estática,5.82,14.23,ok
+2026-11-13 10:50:00,2026-11-13 10:50:17.959,Jean,Jean,,,fin,3.42,17.65,ok
+2026-11-13 10:51:17,2026-11-13 10:51:19.939,Paula,Paula,paula,p,estática,2.74,2.74,ok
+2026-11-13 10:51:17,2026-11-13 10:51:25.640,Paula,Paula,paula,a,estática,5.70,8.44,ok
+2026-11-13 10:51:17,2026-11-13 10:51:30.619,Paula,Paula,paula,u,estática,4.98,13.42,ok
+2026-11-13 10:51:17,2026-11-13 10:51:34.459,Paula,Paula,paula,l,estática,3.84,17.26,ok
+2026-11-13 10:51:17,2026-11-13 10:51:39.019,Paula,Paula,paula,a,estática,4.56,21.82,ok
+2026-11-13 10:51:17,2026-11-13 10:51:42.499,Paula,Paula,,,fin,3.48,25.30,ok
+2026-11-13 10:53:08,2026-11-13 10:53:10.939,Camila,Camila,camila,c,estática,2.21,2.21,ok
+2026-11-13 10:53:08,2026-11-13 10:53:16.339,Camila,Camila,camila,a,estática,5.40,7.61,ok
+2026-11-13 10:53:08,2026-11-13 10:53:22.158,Camila,Camila,camila,m,estática,5.82,13.43,ok
+2026-11-13 10:53:08,2026-11-13 10:53:27.561,Camila,Camila,camila,i,estática,5.40,18.83,ok
+2026-11-13 10:53:08,2026-11-13 10:53:31.879,Camila,Camila,camila,l,estática,4.32,23.15,ok
+2026-11-13 10:53:08,2026-11-13 10:53:36.378,Camila,Camila,camila,a,estática,4.50,27.65,ok
+2026-11-13 10:53:08,2026-11-13 10:53:39.798,Camila,Camila,,,fin,3.42,31.07,ok
+2026-11-18 14:10:25,2026-11-18 14:10:26.950,Lina Maldonado,Lina,lina,l,estática,1.51,1.51,ok
+2026-11-18 14:10:25,2026-11-18 14:10:31.090,Lina Maldonado,Lina,lina,i,estática,4.14,5.65,ok
+2026-11-18 14:10:25,2026-11-18 14:10:36.552,Lina Maldonado,Lina,lina,n,estática,5.46,11.11,ok
+2026-11-18 14:10:25,2026-11-18 14:10:42.373,Lina Maldonado,Lina,lina,a,estática,5.82,16.94,ok
+2026-11-18 14:10:25,2026-11-18 14:10:45.793,Lina Maldonado,Maldonado,,,espacio,3.42,20.35,ok
+2026-11-18 14:10:25,2026-11-18 14:10:49.332,Lina Maldonado,Maldonado,maldonado,m,estática,3.54,23.89,ok
+2026-11-18 14:10:25,2026-11-18 14:10:55.151,Lina Maldonado,Maldonado,maldonado,a,estática,5.82,29.71,ok
+2026-11-18 14:10:25,2026-11-18 14:10:59.772,Lina Maldonado,Maldonado,maldonado,l,estática,4.62,34.33,ok
+2026-11-18 14:10:25,2026-11-18 14:11:03.973,Lina Maldonado,Maldonado,maldonado,d,estática,4.20,38.54,ok
+2026-11-18 14:10:25,2026-11-18 14:11:09.012,Lina Maldonado,Maldonado,maldonado,o,estática,5.04,43.57,ok
+2026-11-18 14:10:25,2026-11-18 14:11:14.352,Lina Maldonado,Maldonado,maldonado,n,estática,5.34,48.91,ok
+2026-11-18 14:10:25,2026-11-18 14:11:20.173,Lina Maldonado,Maldonado,maldonado,a,estática,5.82,54.74,ok
+2026-11-18 14:10:25,2026-11-18 14:11:25.572,Lina Maldonado,Maldonado,maldonado,d,estática,5.40,60.13,ok
+2026-11-18 14:10:25,2026-11-18 14:11:30.612,Lina Maldonado,Maldonado,maldonado,o,estática,5.04,65.17,ok
+2026-11-18 14:10:25,2026-11-18 14:11:33.549,Lina Maldonado,Maldonado,,,fin,2.94,68.11,ok
+2026-11-18 14:17:01,2026-11-18 14:17:03.067,Lina Tatiana Maldonado,Lina,lina,l,estática,1.45,1.45,ok
+2026-11-18 14:17:01,2026-11-18 14:17:07.329,Lina Tatiana Maldonado,Lina,lina,i,estática,4.26,5.71,ok
+2026-11-18 14:17:01,2026-11-18 14:17:12.730,Lina Tatiana Maldonado,Lina,lina,n,estática,5.40,11.11,ok
+2026-11-18 14:17:01,2026-11-18 14:17:18.486,Lina Tatiana Maldonado,Lina,lina,a,estática,5.76,16.87,ok
+2026-11-18 14:17:01,2026-11-18 14:17:21.905,Lina Tatiana Maldonado,Tatiana,,,espacio,3.42,20.29,ok
+2026-11-18 14:17:01,2026-11-18 14:17:23.346,Lina Tatiana Maldonado,Tatiana,tatiana,t,estática,1.44,21.73,ok
+2026-11-18 14:17:01,2026-11-18 14:17:27.249,Lina Tatiana Maldonado,Tatiana,tatiana,a,estática,3.90,25.63,ok
+2026-11-18 14:17:01,2026-11-18 14:17:31.028,Lina Tatiana Maldonado,Tatiana,tatiana,t,estática,3.78,29.41,ok
+2026-11-18 14:17:01,2026-11-18 14:17:34.448,Lina Tatiana Maldonado,Tatiana,tatiana,i,estática,3.42,32.83,ok
+2026-11-18 14:17:01,2026-11-18 14:17:39.906,Lina Tatiana Maldonado,Tatiana,tatiana,a,estática,5.46,38.29,ok
+2026-11-18 14:17:01,2026-11-18 14:17:45.667,Lina Tatiana Maldonado,Tatiana,tatiana,n,estática,5.76,44.05,ok
+2026-11-18 14:17:01,2026-11-18 14:17:51.487,Lina Tatiana Maldonado,Tatiana,tatiana,a,estática,5.82,49.87,ok
+2026-11-18 14:17:01,2026-11-18 14:17:54.907,Lina Tatiana Maldonado,Maldonado,,,espacio,3.42,53.29,ok
+2026-11-18 14:17:01,2026-11-18 14:17:58.509,Lina Tatiana Maldonado,Maldonado,maldonado,m,estática,3.60,56.89,ok
+2026-11-18 14:17:01,2026-11-18 14:18:04.327,Lina Tatiana Maldonado,Maldonado,maldonado,a,estática,5.82,62.71,ok
+2026-11-18 14:17:01,2026-11-18 14:18:08.947,Lina Tatiana Maldonado,Maldonado,maldonado,l,estática,4.62,67.33,ok
+2026-11-18 14:17:01,2026-11-18 14:18:13.209,Lina Tatiana Maldonado,Maldonado,maldonado,d,estática,4.26,71.59,ok
+2026-11-18 14:17:01,2026-11-18 14:18:18.127,Lina Tatiana Maldonado,Maldonado,maldonado,o,estática,4.92,76.51,ok
+2026-11-18 14:17:01,2026-11-18 14:18:23.527,Lina Tatiana Maldonado,Maldonado,maldonado,n,estática,5.40,81.91,ok
+2026-11-18 14:17:01,2026-11-18 14:18:29.346,Lina Tatiana Maldonado,Maldonado,maldonado,a,estática,5.82,87.73,ok
+2026-11-18 14:17:01,2026-11-18 14:18:34.748,Lina Tatiana Maldonado,Maldonado,maldonado,d,estática,5.40,93.13,ok
+2026-11-18 14:17:01,2026-11-18 14:18:39.789,Lina Tatiana Maldonado,Maldonado,maldonado,o,estática,5.04,98.17,ok
+2026-11-18 14:17:01,2026-11-18 14:18:42.786,Lina Tatiana Maldonado,Maldonado,,,fin,3.00,101.17,ok
+2026-11-18 14:20:47,2026-11-18 14:20:50.586,Paul Miranda,Paul,paul,p,estática,2.69,2.69,ok
+2026-11-18 14:20:47,2026-11-18 14:20:56.406,Paul Miranda,Paul,paul,a,estática,5.82,8.51,ok
+2026-11-18 14:20:47,2026-11-18 14:21:01.386,Paul Miranda,Paul,paul,u,estática,4.98,13.49,ok
+2026-11-18 14:20:47,2026-11-18 14:21:05.226,Paul Miranda,Paul,paul,l,estática,3.84,17.33,ok
+2026-11-18 14:20:47,2026-11-18 14:21:07.384,Paul Miranda,Miranda,,,espacio,2.16,19.49,ok
+2026-11-18 14:20:47,2026-11-18 14:21:10.926,Paul Miranda,Miranda,miranda,m,estática,3.54,23.03,ok
+2026-11-18 14:20:47,2026-11-18 14:21:16.325,Paul Miranda,Miranda,miranda,i,estática,5.40,28.43,ok
+2026-11-18 14:20:47,2026-11-18 14:21:21.368,Paul Miranda,Miranda,miranda,r,estática,5.04,33.47,ok
+2026-11-18 14:20:47,2026-11-18 14:21:26.886,Paul Miranda,Miranda,miranda,a,estática,5.52,38.99,ok
+2026-11-18 14:20:47,2026-11-18 14:21:32.586,Paul Miranda,Miranda,miranda,n,estática,5.70,44.69,ok
+2026-11-18 14:20:47,2026-11-18 14:21:38.046,Paul Miranda,Miranda,miranda,d,estática,5.46,50.15,ok
+2026-11-18 14:20:47,2026-11-18 14:21:43.385,Paul Miranda,Miranda,miranda,a,estática,5.34,55.49,ok
+2026-11-18 14:20:47,2026-11-18 14:21:46.805,Paul Miranda,Miranda,,,fin,3.42,58.91,ok
+2026-11-18 14:23:12,2026-11-18 14:23:13.323,Harry Raigozo,Harry,[H],h,con movimiento,0.36,0.36,ok
+2026-11-18 14:23:12,2026-11-18 14:23:17.406,Harry Raigozo,Harry,arry,a,estática,4.08,4.44,ok
+2026-11-18 14:23:12,2026-11-18 14:23:22.803,Harry Raigozo,Harry,arry,r,estática,5.40,9.84,ok
+2026-11-18 14:23:12,2026-11-18 14:23:27.845,Harry Raigozo,Harry,arry,r,estática,5.04,14.88,ok
+2026-11-18 14:23:12,2026-11-18 14:23:32.044,Harry Raigozo,Harry,arry,y,estática,4.20,19.08,ok
+2026-11-18 14:23:12,2026-11-18 14:23:34.202,Harry Raigozo,Raigozo,,,espacio,2.16,21.24,ok
+2026-11-18 14:23:12,2026-11-18 14:23:37.262,Harry Raigozo,Raigozo,rai,r,estática,3.06,24.30,ok
+2026-11-18 14:23:12,2026-11-18 14:23:42.725,Harry Raigozo,Raigozo,rai,a,estática,5.46,29.76,ok
+2026-11-18 14:23:12,2026-11-18 14:23:48.124,Harry Raigozo,Raigozo,rai,i,estática,5.40,35.16,ok
+2026-11-18 14:23:12,2026-11-18 14:23:51.123,Harry Raigozo,Raigozo,[G],g,con movimiento,3.00,38.16,ok
+2026-11-18 14:23:12,2026-11-18 14:23:54.782,Harry Raigozo,Raigozo,o,o,estática,3.66,41.82,ok
+2026-11-18 14:23:12,2026-11-18 14:23:57.962,Harry Raigozo,Raigozo,[Z],z,con movimiento,3.18,45.00,ok
+2026-11-18 14:23:12,2026-11-18 14:24:01.562,Harry Raigozo,Raigozo,o,o,estática,3.60,48.60,ok
+2026-11-18 14:23:12,2026-11-18 14:24:04.742,Harry Raigozo,Raigozo,,,fin,3.18,51.78,ok
+2026-11-20 10:17:55,2026-11-20 10:17:56.167,Jean,Jean,[J],j,con movimiento,0.41,0.41,ok
+2026-11-20 10:17:55,2026-11-20 10:17:59.408,Jean,Jean,ean,e,estática,3.24,3.65,ok
+2026-11-20 10:17:55,2026-11-20 10:18:04.575,Jean,Jean,ean,a,estática,5.17,8.81,ok
+2026-11-20 10:17:55,2026-11-20 10:18:10.333,Jean,Jean,ean,n,estática,5.76,14.57,ok
+2026-11-20 10:17:55,2026-11-20 10:18:13.750,Jean,Jean,,,fin,3.42,17.99,ok
+2026-11-20 10:24:20,2026-11-20 10:24:20.782,Jean Paul,Jean,[J],j,con movimiento,0.40,0.40,ok
+2026-11-20 10:24:20,2026-11-20 10:24:24.021,Jean Paul,Jean,ean,e,estática,3.24,3.64,ok
+2026-11-20 10:24:20,2026-11-20 10:24:29.125,Jean Paul,Jean,ean,a,estática,5.10,8.75,ok
+2026-11-20 10:24:20,2026-11-20 10:24:34.944,Jean Paul,Jean,ean,n,estática,5.82,14.56,ok
+2026-11-20 10:24:20,2026-11-20 10:24:38.422,Jean Paul,Paul,,,espacio,3.48,18.04,ok
+2026-11-20 10:24:20,2026-11-20 10:24:42.024,Jean Paul,Paul,paul,p,estática,3.60,21.64,ok
+2026-11-20 10:24:20,2026-11-20 10:24:47.844,Jean Paul,Paul,paul,a,estática,5.82,27.46,ok
+2026-11-20 10:24:20,2026-11-20 10:24:52.822,Jean Paul,Paul,paul,u,estática,4.98,32.44,ok
+2026-11-20 10:24:20,2026-11-20 10:24:56.663,Jean Paul,Paul,paul,l,estática,3.84,36.28,ok
+2026-11-20 10:24:20,2026-11-20 10:24:58.820,Jean Paul,Paul,,,fin,2.16,38.44,ok
+2026-11-20 10:27:25,2026-11-20 10:27:26.660,Lina,Lina,lina,l,estática,1.52,1.52,ok
+2026-11-20 10:27:25,2026-11-20 10:27:30.921,Lina,Lina,lina,i,estática,4.26,5.78,ok
+2026-11-20 10:27:25,2026-11-20 10:27:36.321,Lina,Lina,lina,n,estática,5.40,11.18,ok
+2026-11-20 10:27:25,2026-11-20 10:27:42.143,Lina,Lina,lina,a,estática,5.82,17.00,ok
+2026-11-20 10:27:25,2026-11-20 10:27:45.680,Lina,Lina,,,fin,3.54,20.54,ok
+2026-11-20 10:30:36,2026-11-20 10:30:36.558,Harry Raigozo,Harry,[H],h,con movimiento,0.30,0.30,ok
+2026-11-20 10:30:36,2026-11-20 10:30:40.640,Harry Raigozo,Harry,arry,a,estática,4.08,4.38,ok
+2026-11-20 10:30:36,2026-11-20 10:30:46.039,Harry Raigozo,Harry,arry,r,estática,5.40,9.78,ok
+2026-11-20 10:30:36,2026-11-20 10:30:51.020,Harry Raigozo,Harry,arry,r,estática,4.98,14.76,ok
+2026-11-20 10:30:36,2026-11-20 10:30:55.279,Harry Raigozo,Harry,arry,y,estática,4.26,19.02,ok
+2026-11-20 10:30:36,2026-11-20 10:30:57.437,Harry Raigozo,Raigozo,,,espacio,2.16,21.18,ok
+2026-11-20 10:30:36,2026-11-20 10:31:00.498,Harry Raigozo,Raigozo,rai,r,estática,3.06,24.24,ok
+2026-11-20 10:30:36,2026-11-20 10:31:05.960,Harry Raigozo,Raigozo,rai,a,estática,5.46,29.70,ok
+2026-11-20 10:30:36,2026-11-20 10:31:11.420,Harry Raigozo,Raigozo,rai,i,estática,5.46,35.16,ok
+2026-11-20 10:30:36,2026-11-20 10:31:14.357,Harry Raigozo,Raigozo,[G],g,con movimiento,2.94,38.10,ok
+2026-11-20 10:30:36,2026-11-20 10:31:18.078,Harry Raigozo,Raigozo,o,o,estática,3.72,41.82,ok
+2026-11-20 10:30:36,2026-11-20 10:31:21.318,Harry Raigozo,Raigozo,[Z],z,con movimiento,3.24,45.06,ok
+2026-11-20 10:30:36,2026-11-20 10:31:24.916,Harry Raigozo,Raigozo,o,o,estática,3.60,48.66,ok
+2026-11-20 10:30:36,2026-11-20 10:31:28.097,Harry Raigozo,Raigozo,,,fin,3.18,51.84,ok
+2026-11-20 10:37:00,2026-11-20 10:37:03.014,Camila,Camila,camila,c,estática,2.37,2.37,ok
+2026-11-20 10:37:00,2026-11-20 10:37:08.478,Camila,Camila,camila,a,estática,5.46,7.83,ok
+2026-11-20 10:37:00,2026-11-20 10:37:14.356,Camila,Camila,camila,m,estática,5.88,13.71,ok
+2026-11-20 10:37:00,2026-11-20 10:37:19.695,Camila,Camila,camila,i,estática,5.34,19.05,ok
+2026-11-20 10:37:00,2026-11-20 10:37:23.896,Camila,Camila,camila,l,estática,4.20,23.25,ok
+2026-11-20 10:37:00,2026-11-20 10:37:28.575,Camila,Camila,camila,a,estática,4.68,27.93,ok
+2026-11-20 10:37:00,2026-11-20 10:37:31.936,Camila,Camila,,,fin,3.36,31.29,ok
+2026-11-20 10:48:40,2026-11-20 10:48:42.307,Lina,Lina,lina,l,estática,1.60,1.60,ok
+2026-11-20 10:48:40,2026-11-20 10:48:46.569,Lina,Lina,lina,i,estática,4.26,5.87,ok
+2026-11-20 10:48:40,2026-11-20 10:48:51.909,Lina,Lina,lina,n,estática,5.34,11.21,ok
+2026-11-20 10:48:40,2026-11-20 10:48:57.728,Lina,Lina,lina,a,estática,5.82,17.03,ok
+2026-11-20 10:48:40,2026-11-20 10:49:01.148,Lina,Lina,,,fin,3.42,20.45,ok
+2026-11-20 10:54:26,2026-11-20 10:54:26.582,Harry,Harry,[H],h,con movimiento,0.32,0.32,ok
+2026-11-20 10:54:26,2026-11-20 10:54:30.725,Harry,Harry,arry,a,estática,4.14,4.46,ok
+2026-11-20 10:54:26,2026-11-20 10:54:36.123,Harry,Harry,arry,r,estática,5.40,9.86,ok
+2026-11-20 10:54:26,2026-11-20 10:54:41.103,Harry,Harry,arry,r,estática,4.98,14.84,ok
+2026-11-20 10:54:26,2026-11-20 10:54:45.364,Harry,Harry,arry,y,estática,4.26,19.10,ok
+2026-11-20 10:54:26,2026-11-20 10:54:47.521,Harry,Harry,,,fin,2.16,21.26,ok
+2026-11-20 10:55:57,2026-11-20 10:55:57.901,Jean,Jean,[J],j,con movimiento,0.26,0.26,ok
+2026-11-20 10:55:57,2026-11-20 10:56:01.081,Jean,Jean,ean,e,estática,3.18,3.44,ok
+2026-11-20 10:55:57,2026-11-20 10:56:06.183,Jean,Jean,ean,a,estática,5.10,8.54,ok
+2026-11-20 10:55:57,2026-11-20 10:56:12.002,Jean,Jean,ean,n,estática,5.82,14.36,ok
+2026-11-20 10:55:57,2026-11-20 10:56:15.483,Jean,Jean,,,fin,3.48,17.84,ok
+2026-11-20 10:57:57,2026-11-20 10:57:59.461,Camila,Camila,camila,c,estática,2.23,2.23,ok
+2026-11-20 10:57:57,2026-11-20 10:58:04.921,Camila,Camila,camila,a,estática,5.46,7.69,ok
+2026-11-20 10:57:57,2026-11-20 10:58:10.742,Camila,Camila,camila,m,estática,5.82,13.51,ok
+2026-11-20 10:57:57,2026-11-20 10:58:16.141,Camila,Camila,camila,i,estática,5.40,18.91,ok
+2026-11-20 10:57:57,2026-11-20 10:58:20.461,Camila,Camila,camila,l,estática,4.32,23.23,ok
+2026-11-20 10:57:57,2026-11-20 10:58:24.961,Camila,Camila,camila,a,estática,4.50,27.73,ok
+2026-11-20 10:57:57,2026-11-20 10:58:28.500,Camila,Camila,,,fin,3.54,31.27,ok
